@@ -12,10 +12,10 @@ import com.makemytrip.utilities.Reports;
 
 public class LoginTest extends RunnerTest{
 	
-	String uname=WebActions.getPropFileData("userDetails", "username");
-	String pwd=WebActions.getPropFileData("userDetails", "password");
+	String uname=WebActions.getPropFileData("userDetails","testdata", "username");
+	String pwd=WebActions.getPropFileData("userDetails","testdata", "password");
 
-	@Test(groups= {"Regression","Sanity"})
+	@Test(groups= {"Sanity"})
 	public void loginwithValidData() throws Exception {
 		Reports.setTestName(this.getClass().getSimpleName());
 		Log.startTestCase(this.getClass().getSimpleName());

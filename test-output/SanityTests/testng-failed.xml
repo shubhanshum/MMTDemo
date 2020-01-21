@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [SanityTests]">
+  <parameter name="browserName" value="chrome"/>
+  <test name="LoginSanity(failed)">
+    <parameter name="browserName" value="chrome"/>
+    <classes>
+      <class name="com.makemytrip.tests.GetRoundTripStudentFareTest">
+        <methods>
+          <include name="getRoundTripStudentFareOfFlight"/>
+          <include name="setUp"/>
+          <include name="verifyingResult"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.makemytrip.tests.GetRoundTripStudentFareTest -->
+    </classes>
+  </test> <!-- LoginSanity(failed) -->
+</suite> <!-- Failed suite [SanityTests] -->

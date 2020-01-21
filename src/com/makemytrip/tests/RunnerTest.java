@@ -1,7 +1,6 @@
 package com.makemytrip.tests;
 
 import org.apache.log4j.PropertyConfigurator;
-import org.testng.ITestContext;
 import org.testng.ITestResult;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.AfterMethod;
@@ -14,13 +13,17 @@ import com.makemytrip.utilities.Reports;
 
 public class RunnerTest extends Reports{
 
-	@BeforeClass()
+	@BeforeClass(alwaysRun=true)
 	@Parameters({ "browserName" })
 	public void setUp(String browserName) {
+		if (extent == null) {
 			PropertyConfigurator.configure("log4j.properties");
 			Reports.setReport();
 			BrowserFactory.getBrowser(browserName);
 			WebActions.navigateToURL();
+		}
+		BrowserFactory.getBrowser(browserName);
+		WebActions.navigateToURL();
 	}
 
 	@AfterMethod(alwaysRun = true)
@@ -28,9 +31,9 @@ public class RunnerTest extends Reports{
 		  Reports.getResult(result); 
 	}
 
-	@AfterClass()
+	@AfterClass(alwaysRun=true)
 	public void tearDown() {
-		//BrowserFactory.getDriver().close();
+		BrowserFactory.getDriver().close();
 		Reports.flush();
 	}
 }

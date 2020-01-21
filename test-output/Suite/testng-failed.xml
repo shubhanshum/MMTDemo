@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Suite]">
+  <parameter name="browserName" value="chrome"/>
+  <test name="Make My Trip Functionality(failed)">
+    <parameter name="browserName" value="chrome"/>
+    <classes>
+      <class name="com.makemytrip.tests.LoginTest">
+        <methods>
+          <include name="loginwithValidData"/>
+          <include name="setUp"/>
+          <include name="verifyingResult"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.makemytrip.tests.LoginTest -->
+    </classes>
+  </test> <!-- Make My Trip Functionality(failed) -->
+</suite> <!-- Failed suite [Suite] -->

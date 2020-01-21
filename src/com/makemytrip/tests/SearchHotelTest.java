@@ -4,11 +4,9 @@ import org.testng.annotations.Test;
 
 import com.makemytrip.core.VerifyAndAssert;
 import com.makemytrip.core.WebActions;
-import com.makemytrip.pageobjects.HomePage;
 import com.makemytrip.pageobjects.HotelListPO;
 import com.makemytrip.pageobjects.HotelsPO;
 import com.makemytrip.pageobjects.LandingPO;
-import com.makemytrip.pageobjects.LoginPO;
 import com.makemytrip.testdata.PageURLs;
 import com.makemytrip.utilities.BrowserFactory;
 import com.makemytrip.utilities.Log;
@@ -16,9 +14,9 @@ import com.makemytrip.utilities.Reports;
 
 public class SearchHotelTest extends RunnerTest{
 
-	String uname=WebActions.getPropFileData("userDetails", "username");
-	String pwd=WebActions.getPropFileData("userDetails", "password");
-	String city=WebActions.getPropFileData("userDetails", "city");
+	String uname=WebActions.getPropFileData("userDetails","testdata", "username");
+	String pwd=WebActions.getPropFileData("userDetails","testdata", "password");
+	String city=WebActions.getPropFileData("userDetails","testdata", "city");
 	
 	@Test(groups= {"Regression","Sanity"})
 	public void searchHotelTest() throws Exception {

@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="87045" started-at="2020-01-21T13:20:54Z" finished-at="2020-01-21T13:22:21Z">
+    <groups>
+      <group name="Sanity">
+        <method signature="GetRoundTripStudentFareTest.getRoundTripStudentFareOfFlight()[pri:0, instance:com.makemytrip.tests.GetRoundTripStudentFareTest@1b604f19]" name="getRoundTripStudentFareOfFlight" class="com.makemytrip.tests.GetRoundTripStudentFareTest"/>
+        <method signature="LoginTest.loginwithValidData()[pri:0, instance:com.makemytrip.tests.LoginTest@cb5822]" name="loginwithValidData" class="com.makemytrip.tests.LoginTest"/>
+      </group> <!-- Sanity -->
+      <group name="Regression">
+        <method signature="GetRoundTripStudentFareTest.getRoundTripStudentFareOfFlight()[pri:0, instance:com.makemytrip.tests.GetRoundTripStudentFareTest@1b604f19]" name="getRoundTripStudentFareOfFlight" class="com.makemytrip.tests.GetRoundTripStudentFareTest"/>
+        <method signature="LoginTest.loginwithValidData()[pri:0, instance:com.makemytrip.tests.LoginTest@cb5822]" name="loginwithValidData" class="com.makemytrip.tests.LoginTest"/>
+      </group> <!-- Regression -->
+    </groups>
+    <test name="Make My Trip Functionality" duration-ms="87045" started-at="2020-01-21T13:20:54Z" finished-at="2020-01-21T13:22:21Z">
+      <class name="com.makemytrip.tests.GetRoundTripStudentFareTest">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.makemytrip.tests.GetRoundTripStudentFareTest@1b604f19]" name="setUp" is-config="true" duration-ms="13256" started-at="2020-01-21T18:51:55Z" finished-at="2020-01-21T18:52:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="getRoundTripStudentFareOfFlight()[pri:0, instance:com.makemytrip.tests.GetRoundTripStudentFareTest@1b604f19]" name="getRoundTripStudentFareOfFlight" duration-ms="8703" started-at="2020-01-21T18:52:08Z" finished-at="2020-01-21T18:52:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getRoundTripStudentFareOfFlight -->
+        <test-method status="PASS" signature="verifyingResult(org.testng.ITestResult)[pri:0, instance:com.makemytrip.tests.GetRoundTripStudentFareTest@1b604f19]" name="verifyingResult" is-config="true" duration-ms="1" started-at="2020-01-21T18:52:17Z" finished-at="2020-01-21T18:52:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=getRoundTripStudentFareOfFlight status=SUCCESS method=GetRoundTripStudentFareTest.getRoundTripStudentFareOfFlight()[pri:0, instance:com.makemytrip.tests.GetRoundTripStudentFareTest@1b604f19] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyingResult -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.makemytrip.tests.GetRoundTripStudentFareTest@1b604f19]" name="tearDown" is-config="true" duration-ms="4327" started-at="2020-01-21T18:52:17Z" finished-at="2020-01-21T18:52:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.makemytrip.tests.GetRoundTripStudentFareTest -->
+      <class name="com.makemytrip.tests.LoginTest">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.makemytrip.tests.LoginTest@cb5822]" name="setUp" is-config="true" duration-ms="26904" started-at="2020-01-21T18:50:54Z" finished-at="2020-01-21T18:51:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginwithValidData()[pri:0, instance:com.makemytrip.tests.LoginTest@cb5822]" name="loginwithValidData" duration-ms="28840" started-at="2020-01-21T18:51:21Z" finished-at="2020-01-21T18:51:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginwithValidData -->
+        <test-method status="PASS" signature="verifyingResult(org.testng.ITestResult)[pri:0, instance:com.makemytrip.tests.LoginTest@cb5822]" name="verifyingResult" is-config="true" duration-ms="4" started-at="2020-01-21T18:51:50Z" finished-at="2020-01-21T18:51:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=loginwithValidData status=SUCCESS method=LoginTest.loginwithValidData()[pri:0, instance:com.makemytrip.tests.LoginTest@cb5822] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyingResult -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.makemytrip.tests.LoginTest@cb5822]" name="tearDown" is-config="true" duration-ms="4985" started-at="2020-01-21T18:51:50Z" finished-at="2020-01-21T18:51:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.makemytrip.tests.LoginTest -->
+    </test> <!-- Make My Trip Functionality -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -2221,3 +2221,1276 @@
 2020-01-21 14:39:55,381 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:Hey rahul
 2020-01-21 14:39:55,381 [main] INFO com.makemytrip.utilities.Log - Verifying Text
 2020-01-21 14:39:55,382 [main] INFO com.makemytrip.utilities.Log - Pass: Act Text:rahul Exp Text:rahul
+2020-01-21 17:06:41,472 [main] INFO com.makemytrip.utilities.Log - Chrome Browser has Launched
+2020-01-21 17:06:45,657 [main] INFO com.makemytrip.utilities.Log - Navigating to URL>https://www.makemytrip.com/
+2020-01-21 17:06:48,991 [main] INFO com.makemytrip.utilities.Log - Pass:Navigated to URL>https://www.makemytrip.com/
+2020-01-21 17:06:49,436 [main] INFO com.makemytrip.utilities.Log - Clicking using JS on: Round trip radio button
+2020-01-21 17:06:49,437 [main] INFO com.makemytrip.utilities.Log - waiting for Round trip radio button to be clickable
+2020-01-21 17:06:50,112 [main] INFO com.makemytrip.utilities.Log - Pass: Round trip radio button is clickable
+2020-01-21 17:06:50,705 [main] INFO com.makemytrip.utilities.Log - Pass: Round trip radio button :is clicked
+2020-01-21 17:06:50,754 [main] INFO com.makemytrip.utilities.Log - Clicking using JS on: Student fare button
+2020-01-21 17:06:50,754 [main] INFO com.makemytrip.utilities.Log - waiting for Student fare button to be clickable
+2020-01-21 17:06:50,816 [main] INFO com.makemytrip.utilities.Log - Pass: Student fare button is clickable
+2020-01-21 17:06:50,949 [main] INFO com.makemytrip.utilities.Log - Pass: Student fare button :is clicked
+2020-01-21 17:06:50,981 [main] INFO com.makemytrip.utilities.Log - Clicking using JS on: Search button
+2020-01-21 17:06:50,981 [main] INFO com.makemytrip.utilities.Log - waiting for Search button to be clickable
+2020-01-21 17:06:51,030 [main] INFO com.makemytrip.utilities.Log - Pass: Search button is clickable
+2020-01-21 17:06:51,155 [main] INFO com.makemytrip.utilities.Log - Pass: Search button :is clicked
+2020-01-21 17:06:51,158 [main] INFO com.makemytrip.utilities.Log - Waiting for borwser to load
+2020-01-21 17:08:43,913 [main] INFO com.makemytrip.utilities.Log - Chrome Browser has Launched
+2020-01-21 17:08:48,050 [main] INFO com.makemytrip.utilities.Log - Navigating to URL>https://www.makemytrip.com/
+2020-01-21 17:08:50,825 [main] INFO com.makemytrip.utilities.Log - Pass:Navigated to URL>https://www.makemytrip.com/
+2020-01-21 17:08:50,968 [main] INFO com.makemytrip.utilities.Log - Clicking using JS on: Round trip radio button
+2020-01-21 17:08:50,969 [main] INFO com.makemytrip.utilities.Log - waiting for Round trip radio button to be clickable
+2020-01-21 17:08:51,135 [main] INFO com.makemytrip.utilities.Log - Pass: Round trip radio button is clickable
+2020-01-21 17:08:51,235 [main] INFO com.makemytrip.utilities.Log - Pass: Round trip radio button :is clicked
+2020-01-21 17:08:51,283 [main] INFO com.makemytrip.utilities.Log - Clicking using JS on: Student fare button
+2020-01-21 17:08:51,284 [main] INFO com.makemytrip.utilities.Log - waiting for Student fare button to be clickable
+2020-01-21 17:08:52,211 [main] INFO com.makemytrip.utilities.Log - Pass: Student fare button is clickable
+2020-01-21 17:08:52,340 [main] INFO com.makemytrip.utilities.Log - Pass: Student fare button :is clicked
+2020-01-21 17:08:52,401 [main] INFO com.makemytrip.utilities.Log - Clicking using JS on: Search button
+2020-01-21 17:08:52,402 [main] INFO com.makemytrip.utilities.Log - waiting for Search button to be clickable
+2020-01-21 17:08:52,466 [main] INFO com.makemytrip.utilities.Log - Pass: Search button is clickable
+2020-01-21 17:08:52,575 [main] INFO com.makemytrip.utilities.Log - Pass: Search button :is clicked
+2020-01-21 17:08:52,584 [main] INFO com.makemytrip.utilities.Log - Waiting for borwser to load
+2020-01-21 17:09:30,017 [main] INFO com.makemytrip.utilities.Log - Chrome Browser has Launched
+2020-01-21 17:09:34,187 [main] INFO com.makemytrip.utilities.Log - Navigating to URL>https://www.makemytrip.com/
+2020-01-21 17:09:36,413 [main] INFO com.makemytrip.utilities.Log - Pass:Navigated to URL>https://www.makemytrip.com/
+2020-01-21 17:09:37,329 [main] INFO com.makemytrip.utilities.Log - Clicking using JS on: Round trip radio button
+2020-01-21 17:09:37,330 [main] INFO com.makemytrip.utilities.Log - waiting for Round trip radio button to be clickable
+2020-01-21 17:09:37,777 [main] INFO com.makemytrip.utilities.Log - Pass: Round trip radio button is clickable
+2020-01-21 17:09:38,028 [main] INFO com.makemytrip.utilities.Log - Pass: Round trip radio button :is clicked
+2020-01-21 17:09:38,068 [main] INFO com.makemytrip.utilities.Log - Clicking using JS on: Student fare button
+2020-01-21 17:09:38,069 [main] INFO com.makemytrip.utilities.Log - waiting for Student fare button to be clickable
+2020-01-21 17:09:38,127 [main] INFO com.makemytrip.utilities.Log - Pass: Student fare button is clickable
+2020-01-21 17:09:38,256 [main] INFO com.makemytrip.utilities.Log - Pass: Student fare button :is clicked
+2020-01-21 17:09:38,283 [main] INFO com.makemytrip.utilities.Log - Clicking using JS on: Search button
+2020-01-21 17:09:38,283 [main] INFO com.makemytrip.utilities.Log - waiting for Search button to be clickable
+2020-01-21 17:09:38,352 [main] INFO com.makemytrip.utilities.Log - Pass: Search button is clickable
+2020-01-21 17:09:38,522 [main] INFO com.makemytrip.utilities.Log - Pass: Search button :is clicked
+2020-01-21 17:09:38,531 [main] INFO com.makemytrip.utilities.Log - Waiting for borwser to load
+2020-01-21 17:11:18,791 [main] INFO com.makemytrip.utilities.Log - Chrome Browser has Launched
+2020-01-21 17:11:22,924 [main] INFO com.makemytrip.utilities.Log - Navigating to URL>https://www.makemytrip.com/
+2020-01-21 17:11:25,650 [main] INFO com.makemytrip.utilities.Log - Pass:Navigated to URL>https://www.makemytrip.com/
+2020-01-21 17:11:25,713 [main] INFO com.makemytrip.utilities.Log - Clicking using JS on: Round trip radio button
+2020-01-21 17:11:25,713 [main] INFO com.makemytrip.utilities.Log - waiting for Round trip radio button to be clickable
+2020-01-21 17:11:25,866 [main] INFO com.makemytrip.utilities.Log - Pass: Round trip radio button is clickable
+2020-01-21 17:11:26,327 [main] INFO com.makemytrip.utilities.Log - Pass: Round trip radio button :is clicked
+2020-01-21 17:11:26,615 [main] INFO com.makemytrip.utilities.Log - Clicking using JS on: Student fare button
+2020-01-21 17:11:26,615 [main] INFO com.makemytrip.utilities.Log - waiting for Student fare button to be clickable
+2020-01-21 17:11:26,737 [main] INFO com.makemytrip.utilities.Log - Pass: Student fare button is clickable
+2020-01-21 17:11:26,912 [main] INFO com.makemytrip.utilities.Log - Pass: Student fare button :is clicked
+2020-01-21 17:11:26,936 [main] INFO com.makemytrip.utilities.Log - Clicking using JS on: Search button
+2020-01-21 17:11:26,937 [main] INFO com.makemytrip.utilities.Log - waiting for Search button to be clickable
+2020-01-21 17:11:26,986 [main] INFO com.makemytrip.utilities.Log - Pass: Search button is clickable
+2020-01-21 17:11:27,126 [main] INFO com.makemytrip.utilities.Log - Pass: Search button :is clicked
+2020-01-21 17:11:27,135 [main] INFO com.makemytrip.utilities.Log - Waiting for borwser to load
+2020-01-21 17:11:27,147 [main] INFO com.makemytrip.utilities.Log - Waiting for ajax to load
+2020-01-21 17:13:12,430 [main] INFO com.makemytrip.utilities.Log - Chrome Browser has Launched
+2020-01-21 17:13:16,593 [main] INFO com.makemytrip.utilities.Log - Navigating to URL>https://www.makemytrip.com/
+2020-01-21 17:13:19,366 [main] INFO com.makemytrip.utilities.Log - Pass:Navigated to URL>https://www.makemytrip.com/
+2020-01-21 17:13:19,434 [main] INFO com.makemytrip.utilities.Log - Clicking using JS on: Round trip radio button
+2020-01-21 17:13:19,435 [main] INFO com.makemytrip.utilities.Log - waiting for Round trip radio button to be clickable
+2020-01-21 17:13:19,586 [main] INFO com.makemytrip.utilities.Log - Pass: Round trip radio button is clickable
+2020-01-21 17:13:19,622 [main] INFO com.makemytrip.utilities.Log - Pass: Round trip radio button :is clicked
+2020-01-21 17:13:20,096 [main] INFO com.makemytrip.utilities.Log - Clicking using JS on: Student fare button
+2020-01-21 17:13:20,097 [main] INFO com.makemytrip.utilities.Log - waiting for Student fare button to be clickable
+2020-01-21 17:13:20,670 [main] INFO com.makemytrip.utilities.Log - Pass: Student fare button is clickable
+2020-01-21 17:13:20,831 [main] INFO com.makemytrip.utilities.Log - Pass: Student fare button :is clicked
+2020-01-21 17:13:20,856 [main] INFO com.makemytrip.utilities.Log - Clicking using JS on: Search button
+2020-01-21 17:13:20,856 [main] INFO com.makemytrip.utilities.Log - waiting for Search button to be clickable
+2020-01-21 17:13:20,892 [main] INFO com.makemytrip.utilities.Log - Pass: Search button is clickable
+2020-01-21 17:13:21,008 [main] INFO com.makemytrip.utilities.Log - Pass: Search button :is clicked
+2020-01-21 17:13:21,016 [main] INFO com.makemytrip.utilities.Log - Waiting for borwser to load
+2020-01-21 17:13:58,665 [main] INFO com.makemytrip.utilities.Log - Chrome Browser has Launched
+2020-01-21 17:14:02,796 [main] INFO com.makemytrip.utilities.Log - Navigating to URL>https://www.makemytrip.com/
+2020-01-21 17:14:05,566 [main] INFO com.makemytrip.utilities.Log - Pass:Navigated to URL>https://www.makemytrip.com/
+2020-01-21 17:14:06,416 [main] INFO com.makemytrip.utilities.Log - Clicking using JS on: Round trip radio button
+2020-01-21 17:14:06,417 [main] INFO com.makemytrip.utilities.Log - waiting for Round trip radio button to be clickable
+2020-01-21 17:14:06,781 [main] INFO com.makemytrip.utilities.Log - Pass: Round trip radio button is clickable
+2020-01-21 17:14:06,928 [main] INFO com.makemytrip.utilities.Log - Pass: Round trip radio button :is clicked
+2020-01-21 17:14:06,955 [main] INFO com.makemytrip.utilities.Log - Clicking using JS on: Student fare button
+2020-01-21 17:14:06,955 [main] INFO com.makemytrip.utilities.Log - waiting for Student fare button to be clickable
+2020-01-21 17:14:06,991 [main] INFO com.makemytrip.utilities.Log - Pass: Student fare button is clickable
+2020-01-21 17:14:07,102 [main] INFO com.makemytrip.utilities.Log - Pass: Student fare button :is clicked
+2020-01-21 17:14:07,177 [main] INFO com.makemytrip.utilities.Log - Clicking using JS on: Search button
+2020-01-21 17:14:07,177 [main] INFO com.makemytrip.utilities.Log - waiting for Search button to be clickable
+2020-01-21 17:14:07,208 [main] INFO com.makemytrip.utilities.Log - Pass: Search button is clickable
+2020-01-21 17:14:07,307 [main] INFO com.makemytrip.utilities.Log - Pass: Search button :is clicked
+2020-01-21 17:14:07,315 [main] INFO com.makemytrip.utilities.Log - Waiting for borwser to load
+2020-01-21 17:14:13,785 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 17:14:13,877 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:Go Air |G8-124
+2020-01-21 17:14:13,914 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 17:14:13,966 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:? 6,746
+2020-01-21 17:14:13,992 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 17:14:14,032 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:Go Air |G8-113
+2020-01-21 17:14:14,062 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 17:14:14,083 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:? 6,746
+2020-01-21 17:14:14,102 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 17:14:14,126 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:Go Air |G8-557
+2020-01-21 17:14:14,143 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 17:14:14,165 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:? 6,746
+2020-01-21 17:14:14,180 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 17:14:14,200 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:Go Air |G8-286
+2020-01-21 17:14:14,211 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 17:14:14,227 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:? 13,004
+2020-01-21 17:22:13,429 [main] INFO com.makemytrip.utilities.Log - Chrome Browser has Launched
+2020-01-21 17:22:17,573 [main] INFO com.makemytrip.utilities.Log - Navigating to URL>https://www.makemytrip.com/
+2020-01-21 17:22:20,228 [main] INFO com.makemytrip.utilities.Log - Pass:Navigated to URL>https://www.makemytrip.com/
+2020-01-21 17:22:20,247 [main] INFO com.makemytrip.utilities.Log - $$$$$$$$$$$$$$$$$$$$$                 LoginTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-01-21 17:22:20,302 [main] INFO com.makemytrip.utilities.Log - Clicking using JS on: Login or create account link
+2020-01-21 17:22:20,303 [main] INFO com.makemytrip.utilities.Log - waiting for Login or create account link to be clickable
+2020-01-21 17:22:21,176 [main] INFO com.makemytrip.utilities.Log - Pass: Login or create account link is clickable
+2020-01-21 17:22:21,549 [main] INFO com.makemytrip.utilities.Log - Pass: Login or create account link :is clicked
+2020-01-21 17:22:21,611 [main] INFO com.makemytrip.utilities.Log - Setting text
+2020-01-21 17:22:21,611 [main] INFO com.makemytrip.utilities.Log - waiting for username to display
+2020-01-21 17:22:21,778 [main] INFO com.makemytrip.utilities.Log - Pass: username is displayed
+2020-01-21 17:22:22,557 [main] INFO com.makemytrip.utilities.Log - Pass:shubhanshum22@gmail.com is entered in username text box
+2020-01-21 17:22:22,575 [main] INFO com.makemytrip.utilities.Log - Clicking using Actions on:continue button
+2020-01-21 17:22:23,823 [main] INFO com.makemytrip.utilities.Log - Pass:continue button is clicked
+2020-01-21 17:22:38,867 [main] INFO com.makemytrip.utilities.Log - Setting text
+2020-01-21 17:22:38,868 [main] INFO com.makemytrip.utilities.Log - waiting for password to display
+2020-01-21 17:22:38,905 [main] INFO com.makemytrip.utilities.Log - Pass: password is displayed
+2020-01-21 17:22:39,159 [main] INFO com.makemytrip.utilities.Log - Pass:divinity@22 is entered in password text box
+2020-01-21 17:22:39,176 [main] INFO com.makemytrip.utilities.Log - Clicking using JS on: Login button
+2020-01-21 17:22:39,176 [main] INFO com.makemytrip.utilities.Log - waiting for Login button to be clickable
+2020-01-21 17:22:39,207 [main] INFO com.makemytrip.utilities.Log - Pass: Login button is clickable
+2020-01-21 17:22:39,308 [main] INFO com.makemytrip.utilities.Log - Pass: Login button :is clicked
+2020-01-21 17:22:39,323 [main] INFO com.makemytrip.utilities.Log - waiting for password text box to become invisible
+2020-01-21 17:22:49,640 [main] INFO com.makemytrip.utilities.Log - Pass:password text box is invisible
+2020-01-21 17:22:49,682 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 17:22:49,702 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:Hey rahul
+2020-01-21 17:22:49,704 [main] INFO com.makemytrip.utilities.Log - Verifying whether child text is present in parent text
+2020-01-21 17:22:49,705 [main] INFO com.makemytrip.utilities.Log - Pass:child:HeyParent:Hey rahul
+2020-01-21 17:22:59,864 [main] INFO com.makemytrip.utilities.Log - Chrome Browser has Launched
+2020-01-21 17:23:04,017 [main] INFO com.makemytrip.utilities.Log - Navigating to URL>https://www.makemytrip.com/
+2020-01-21 17:23:07,797 [main] INFO com.makemytrip.utilities.Log - Pass:Navigated to URL>https://www.makemytrip.com/
+2020-01-21 17:23:07,799 [main] INFO com.makemytrip.utilities.Log - $$$$$$$$$$$$$$$$$$$$$                 SearchHotelTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-01-21 17:23:07,835 [main] INFO com.makemytrip.utilities.Log - Clicking using JS on: Hotel link
+2020-01-21 17:23:07,836 [main] INFO com.makemytrip.utilities.Log - waiting for Hotel link to be clickable
+2020-01-21 17:23:07,929 [main] INFO com.makemytrip.utilities.Log - Pass: Hotel link is clickable
+2020-01-21 17:23:08,142 [main] INFO com.makemytrip.utilities.Log - Pass: Hotel link :is clicked
+2020-01-21 17:23:08,143 [main] INFO com.makemytrip.utilities.Log - Verifying URL
+2020-01-21 17:23:08,198 [main] INFO com.makemytrip.utilities.Log - Pass: Act Url:https://www.makemytrip.com/hotels/ Exp Url:https://www.makemytrip.com/hotels/
+2020-01-21 17:23:10,227 [main] INFO com.makemytrip.utilities.Log - Clicking oncity button
+2020-01-21 17:23:10,227 [main] INFO com.makemytrip.utilities.Log - waiting for city button to be clickable
+2020-01-21 17:23:10,276 [main] INFO com.makemytrip.utilities.Log - Pass: city button is clickable
+2020-01-21 17:23:10,593 [main] INFO com.makemytrip.utilities.Log - Pass: city button :is clicked
+2020-01-21 17:23:11,616 [main] INFO com.makemytrip.utilities.Log - Setting text
+2020-01-21 17:23:11,616 [main] INFO com.makemytrip.utilities.Log - waiting for Enter city to display
+2020-01-21 17:23:11,637 [main] INFO com.makemytrip.utilities.Log - Pass: Enter city is displayed
+2020-01-21 17:23:11,897 [main] INFO com.makemytrip.utilities.Log - Pass:Sikandarpur is entered in Enter city text box
+2020-01-21 17:23:14,944 [main] INFO com.makemytrip.utilities.Log - Clicking using JS on: Sikandarpur
+2020-01-21 17:23:14,945 [main] INFO com.makemytrip.utilities.Log - waiting for Sikandarpur to be clickable
+2020-01-21 17:23:14,974 [main] INFO com.makemytrip.utilities.Log - Pass: Sikandarpur is clickable
+2020-01-21 17:23:15,109 [main] INFO com.makemytrip.utilities.Log - Pass: Sikandarpur :is clicked
+2020-01-21 17:23:15,130 [main] INFO com.makemytrip.utilities.Log - Clicking using JS on: Search button
+2020-01-21 17:23:15,130 [main] INFO com.makemytrip.utilities.Log - waiting for Search button to be clickable
+2020-01-21 17:23:15,234 [main] INFO com.makemytrip.utilities.Log - Pass: Search button is clickable
+2020-01-21 17:23:18,667 [main] INFO com.makemytrip.utilities.Log - Pass: Search button :is clicked
+2020-01-21 17:23:18,700 [main] INFO com.makemytrip.utilities.Log - Verifying whether child text is present in parent text
+2020-01-21 17:23:18,700 [main] INFO com.makemytrip.utilities.Log - Pass:child:checkinParent:https://www.makemytrip.com/hotels/hotel-listing/?checkin=01222020&city=RGNCR&mmPoiTag=POI%7CSikandarpur%20Metro%20Station%7CPOI47866%7C%7C&checkout=01232020&roomStayQualifier=2e0e&locusId=RGNCR&country=IN&locusType=region&searchText=Sikandarpur%20Metro%20Station,%20Gurgaon&visitorId=c04096c4-d4f7-4789-a33a-8660ff21c087&_uCurrency=INR
+2020-01-21 17:23:18,702 [main] INFO com.makemytrip.utilities.Log - Waiting for borwser to load
+2020-01-21 17:23:18,735 [main] INFO com.makemytrip.utilities.Log - Clicking using JS on: Black screen
+2020-01-21 17:23:18,736 [main] INFO com.makemytrip.utilities.Log - waiting for Black screen to be clickable
+2020-01-21 17:23:18,834 [main] INFO com.makemytrip.utilities.Log - Pass: Black screen is clickable
+2020-01-21 17:23:18,970 [main] INFO com.makemytrip.utilities.Log - Pass: Black screen :is clicked
+2020-01-21 17:23:20,005 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 17:23:20,051 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:Hotel Aadhar
+2020-01-21 17:23:20,084 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 17:23:20,149 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:INR1,582
+2020-01-21 17:23:20,169 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 17:23:20,191 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:The Bristol Hotel
+2020-01-21 17:23:20,221 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 17:23:20,263 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:INR4,167
+2020-01-21 17:23:20,299 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 17:23:20,334 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:OYO 1007 Hotel Villa 24
+2020-01-21 17:23:20,362 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 17:23:20,387 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:INR1,021
+2020-01-21 17:23:20,404 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 17:23:20,429 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:Hotel Smart Inn-3
+2020-01-21 17:23:20,453 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 17:23:20,481 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:INR1,308
+2020-01-21 17:23:20,500 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 17:23:20,518 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:Indiyaah Inn DLF Phase 2
+2020-01-21 17:23:20,532 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 17:23:20,567 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:INR3,000
+2020-01-21 17:23:35,268 [main] INFO com.makemytrip.utilities.Log - Chrome Browser has Launched
+2020-01-21 17:23:39,399 [main] INFO com.makemytrip.utilities.Log - Navigating to URL>https://www.makemytrip.com/
+2020-01-21 17:23:42,147 [main] INFO com.makemytrip.utilities.Log - Pass:Navigated to URL>https://www.makemytrip.com/
+2020-01-21 17:23:42,150 [main] INFO com.makemytrip.utilities.Log - $$$$$$$$$$$$$$$$$$$$$                 ChangeUnameTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-01-21 17:23:42,173 [main] INFO com.makemytrip.utilities.Log - Clicking using JS on: Login or create account link
+2020-01-21 17:23:42,173 [main] INFO com.makemytrip.utilities.Log - waiting for Login or create account link to be clickable
+2020-01-21 17:23:42,212 [main] INFO com.makemytrip.utilities.Log - Pass: Login or create account link is clickable
+2020-01-21 17:23:42,500 [main] INFO com.makemytrip.utilities.Log - Pass: Login or create account link :is clicked
+2020-01-21 17:23:42,634 [main] INFO com.makemytrip.utilities.Log - Setting text
+2020-01-21 17:23:42,634 [main] INFO com.makemytrip.utilities.Log - waiting for username to display
+2020-01-21 17:23:42,671 [main] INFO com.makemytrip.utilities.Log - Pass: username is displayed
+2020-01-21 17:23:44,092 [main] INFO com.makemytrip.utilities.Log - Pass:shubhanshum22@gmail.com is entered in username text box
+2020-01-21 17:23:44,111 [main] INFO com.makemytrip.utilities.Log - Clicking using Actions on:continue button
+2020-01-21 17:23:45,333 [main] INFO com.makemytrip.utilities.Log - Pass:continue button is clicked
+2020-01-21 17:24:00,384 [main] INFO com.makemytrip.utilities.Log - Setting text
+2020-01-21 17:24:00,384 [main] INFO com.makemytrip.utilities.Log - waiting for password to display
+2020-01-21 17:24:00,415 [main] INFO com.makemytrip.utilities.Log - Pass: password is displayed
+2020-01-21 17:24:00,634 [main] INFO com.makemytrip.utilities.Log - Pass:divinity@22 is entered in password text box
+2020-01-21 17:24:00,650 [main] INFO com.makemytrip.utilities.Log - Clicking using JS on: Login button
+2020-01-21 17:24:00,651 [main] INFO com.makemytrip.utilities.Log - waiting for Login button to be clickable
+2020-01-21 17:24:00,686 [main] INFO com.makemytrip.utilities.Log - Pass: Login button is clickable
+2020-01-21 17:24:00,791 [main] INFO com.makemytrip.utilities.Log - Pass: Login button :is clicked
+2020-01-21 17:24:00,803 [main] INFO com.makemytrip.utilities.Log - waiting for password text box to become invisible
+2020-01-21 17:24:11,129 [main] INFO com.makemytrip.utilities.Log - Pass:password text box is invisible
+2020-01-21 17:24:11,156 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 17:24:11,177 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:Hey rahul
+2020-01-21 17:24:11,178 [main] INFO com.makemytrip.utilities.Log - Verifying whether child text is present in parent text
+2020-01-21 17:24:11,178 [main] INFO com.makemytrip.utilities.Log - Pass:child:HeyParent:Hey rahul
+2020-01-21 17:24:11,213 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 17:24:11,273 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:Hey rahul
+2020-01-21 17:24:11,313 [main] INFO com.makemytrip.utilities.Log - Clicking onHey Username Link
+2020-01-21 17:24:11,314 [main] INFO com.makemytrip.utilities.Log - waiting for Hey Username Link to be clickable
+2020-01-21 17:24:11,391 [main] INFO com.makemytrip.utilities.Log - Pass: Hey Username Link is clickable
+2020-01-21 17:24:11,594 [main] INFO com.makemytrip.utilities.Log - Pass: Hey Username Link :is clicked
+2020-01-21 17:24:11,614 [main] INFO com.makemytrip.utilities.Log - Clicking onMy Profile Link
+2020-01-21 17:24:11,614 [main] INFO com.makemytrip.utilities.Log - waiting for My Profile Link to be clickable
+2020-01-21 17:24:11,647 [main] INFO com.makemytrip.utilities.Log - Pass: My Profile Link is clickable
+2020-01-21 17:24:12,455 [main] INFO com.makemytrip.utilities.Log - Pass: My Profile Link :is clicked
+2020-01-21 17:24:12,456 [main] INFO com.makemytrip.utilities.Log - Verifying URL
+2020-01-21 17:24:12,529 [main] INFO com.makemytrip.utilities.Log - Pass: Act Url:https://www.makemytrip.com/my-profile/ Exp Url:https://www.makemytrip.com/my-profile/
+2020-01-21 17:24:12,531 [main] INFO com.makemytrip.utilities.Log - Waiting for borwser to load
+2020-01-21 17:24:14,592 [main] INFO com.makemytrip.utilities.Log - Clicking using JS on: Edit button
+2020-01-21 17:24:14,592 [main] INFO com.makemytrip.utilities.Log - waiting for Edit button to be clickable
+2020-01-21 17:24:14,624 [main] INFO com.makemytrip.utilities.Log - Pass: Edit button is clickable
+2020-01-21 17:24:14,652 [main] INFO com.makemytrip.utilities.Log - Pass: Edit button :is clicked
+2020-01-21 17:24:15,693 [main] INFO com.makemytrip.utilities.Log - Clearing First Name text field
+2020-01-21 17:24:15,694 [main] INFO com.makemytrip.utilities.Log - waiting for First Name to display
+2020-01-21 17:24:15,741 [main] INFO com.makemytrip.utilities.Log - Pass: First Name is displayed
+2020-01-21 17:24:15,931 [main] INFO com.makemytrip.utilities.Log - Pass: Text Field First Name has been cleared
+2020-01-21 17:24:15,946 [main] INFO com.makemytrip.utilities.Log - Setting text
+2020-01-21 17:24:15,946 [main] INFO com.makemytrip.utilities.Log - waiting for First Name to display
+2020-01-21 17:24:15,969 [main] INFO com.makemytrip.utilities.Log - Pass: First Name is displayed
+2020-01-21 17:24:16,014 [main] INFO com.makemytrip.utilities.Log - Pass:rahul is entered in First Name text box
+2020-01-21 17:24:17,061 [main] INFO com.makemytrip.utilities.Log - Clearing Last Name text field
+2020-01-21 17:24:17,062 [main] INFO com.makemytrip.utilities.Log - waiting for Last Name to display
+2020-01-21 17:24:17,088 [main] INFO com.makemytrip.utilities.Log - Pass: Last Name is displayed
+2020-01-21 17:24:17,222 [main] INFO com.makemytrip.utilities.Log - Pass: Text Field Last Name has been cleared
+2020-01-21 17:24:18,247 [main] INFO com.makemytrip.utilities.Log - Setting text
+2020-01-21 17:24:18,248 [main] INFO com.makemytrip.utilities.Log - waiting for Last Name to display
+2020-01-21 17:24:18,284 [main] INFO com.makemytrip.utilities.Log - Pass: Last Name is displayed
+2020-01-21 17:24:18,359 [main] INFO com.makemytrip.utilities.Log - Pass:singh is entered in Last Name text box
+2020-01-21 17:24:18,375 [main] INFO com.makemytrip.utilities.Log - Clicking using JS on: Save button
+2020-01-21 17:24:18,376 [main] INFO com.makemytrip.utilities.Log - waiting for Save button to be clickable
+2020-01-21 17:24:18,401 [main] INFO com.makemytrip.utilities.Log - Pass: Save button is clickable
+2020-01-21 17:24:18,472 [main] INFO com.makemytrip.utilities.Log - Pass: Save button :is clicked
+2020-01-21 17:24:18,472 [main] INFO com.makemytrip.utilities.Log - Refreshing page
+2020-01-21 17:24:18,486 [main] INFO com.makemytrip.utilities.Log - Pass:Refreshed page
+2020-01-21 17:24:18,486 [main] INFO com.makemytrip.utilities.Log - Waiting for borwser to load
+2020-01-21 17:24:18,947 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 17:24:18,972 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:Hey rahul
+2020-01-21 17:24:18,973 [main] INFO com.makemytrip.utilities.Log - Verifying Text
+2020-01-21 17:24:18,973 [main] INFO com.makemytrip.utilities.Log - Pass: Act Text:rahul Exp Text:rahul
+2020-01-21 17:24:28,798 [main] INFO com.makemytrip.utilities.Log - Chrome Browser has Launched
+2020-01-21 17:24:32,946 [main] INFO com.makemytrip.utilities.Log - Navigating to URL>https://www.makemytrip.com/
+2020-01-21 17:24:35,821 [main] INFO com.makemytrip.utilities.Log - Pass:Navigated to URL>https://www.makemytrip.com/
+2020-01-21 17:24:35,858 [main] INFO com.makemytrip.utilities.Log - Clicking using JS on: Round trip radio button
+2020-01-21 17:24:35,858 [main] INFO com.makemytrip.utilities.Log - waiting for Round trip radio button to be clickable
+2020-01-21 17:24:35,914 [main] INFO com.makemytrip.utilities.Log - Pass: Round trip radio button is clickable
+2020-01-21 17:24:36,083 [main] INFO com.makemytrip.utilities.Log - Pass: Round trip radio button :is clicked
+2020-01-21 17:24:36,107 [main] INFO com.makemytrip.utilities.Log - Clicking using JS on: Student fare button
+2020-01-21 17:24:36,108 [main] INFO com.makemytrip.utilities.Log - waiting for Student fare button to be clickable
+2020-01-21 17:24:36,317 [main] INFO com.makemytrip.utilities.Log - Pass: Student fare button is clickable
+2020-01-21 17:24:36,762 [main] INFO com.makemytrip.utilities.Log - Pass: Student fare button :is clicked
+2020-01-21 17:24:36,980 [main] INFO com.makemytrip.utilities.Log - Clicking using JS on: Search button
+2020-01-21 17:24:36,980 [main] INFO com.makemytrip.utilities.Log - waiting for Search button to be clickable
+2020-01-21 17:24:37,052 [main] INFO com.makemytrip.utilities.Log - Pass: Search button is clickable
+2020-01-21 17:24:37,290 [main] INFO com.makemytrip.utilities.Log - Pass: Search button :is clicked
+2020-01-21 17:24:37,299 [main] INFO com.makemytrip.utilities.Log - Waiting for borwser to load
+2020-01-21 17:24:43,392 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 17:24:43,412 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:Go Air |G8-124
+2020-01-21 17:24:43,426 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 17:24:43,444 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:? 6,746
+2020-01-21 17:24:43,456 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 17:24:43,475 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:Go Air |G8-113
+2020-01-21 17:24:43,486 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 17:24:43,502 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:? 6,746
+2020-01-21 17:24:43,512 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 17:24:43,528 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:Go Air |G8-557
+2020-01-21 17:24:43,541 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 17:24:43,557 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:? 6,746
+2020-01-21 17:24:43,568 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 17:24:43,592 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:Go Air |G8-286
+2020-01-21 17:24:43,602 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 17:24:43,619 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:? 13,004
+2020-01-21 17:34:44,880 [main] INFO com.makemytrip.utilities.Log - Chrome Browser has Launched
+2020-01-21 17:34:49,035 [main] INFO com.makemytrip.utilities.Log - Navigating to URL>null
+2020-01-21 17:34:49,036 [main] INFO com.makemytrip.utilities.Log - Fail:Could not navigate to URL>null
+2020-01-21 17:34:49,055 [main] INFO com.makemytrip.utilities.Log - $$$$$$$$$$$$$$$$$$$$$                 LoginTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-01-21 17:35:22,285 [main] INFO com.makemytrip.utilities.Log - Chrome Browser has Launched
+2020-01-21 17:35:26,435 [main] INFO com.makemytrip.utilities.Log - Navigating to URL>null
+2020-01-21 17:35:26,438 [main] INFO com.makemytrip.utilities.Log - Fail:Could not navigate to URL>null
+2020-01-21 17:35:26,460 [main] INFO com.makemytrip.utilities.Log - $$$$$$$$$$$$$$$$$$$$$                 LoginTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-01-21 17:36:43,734 [main] INFO com.makemytrip.utilities.Log - Chrome Browser has Launched
+2020-01-21 17:36:47,892 [main] INFO com.makemytrip.utilities.Log - Navigating to URL>https://www.makemytrip.com/
+2020-01-21 17:36:50,399 [main] INFO com.makemytrip.utilities.Log - Pass:Navigated to URL>https://www.makemytrip.com/
+2020-01-21 17:36:50,416 [main] INFO com.makemytrip.utilities.Log - $$$$$$$$$$$$$$$$$$$$$                 LoginTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-01-21 17:36:51,445 [main] INFO com.makemytrip.utilities.Log - Clicking using JS on: Login or create account link
+2020-01-21 17:36:51,454 [main] INFO com.makemytrip.utilities.Log - waiting for Login or create account link to be clickable
+2020-01-21 17:36:51,720 [main] INFO com.makemytrip.utilities.Log - Pass: Login or create account link is clickable
+2020-01-21 17:36:52,126 [main] INFO com.makemytrip.utilities.Log - Pass: Login or create account link :is clicked
+2020-01-21 17:36:52,185 [main] INFO com.makemytrip.utilities.Log - Setting text
+2020-01-21 17:36:52,185 [main] INFO com.makemytrip.utilities.Log - waiting for username to display
+2020-01-21 17:36:52,248 [main] INFO com.makemytrip.utilities.Log - Pass: username is displayed
+2020-01-21 17:36:53,287 [main] INFO com.makemytrip.utilities.Log - Pass:shubhanshum22@gmail.com is entered in username text box
+2020-01-21 17:36:53,360 [main] INFO com.makemytrip.utilities.Log - Clicking oncontinue button
+2020-01-21 17:36:53,361 [main] INFO com.makemytrip.utilities.Log - waiting for continue button to be clickable
+2020-01-21 17:36:53,467 [main] INFO com.makemytrip.utilities.Log - Pass: continue button is clickable
+2020-01-21 17:36:53,742 [main] INFO com.makemytrip.utilities.Log - Pass: continue button :is clicked
+2020-01-21 17:45:10,215 [main] INFO com.makemytrip.utilities.Log - Chrome Browser has Launched
+2020-01-21 17:45:14,371 [main] INFO com.makemytrip.utilities.Log - Navigating to URL>https://www.makemytrip.com/
+2020-01-21 17:45:17,364 [main] INFO com.makemytrip.utilities.Log - Pass:Navigated to URL>https://www.makemytrip.com/
+2020-01-21 17:45:17,380 [main] INFO com.makemytrip.utilities.Log - $$$$$$$$$$$$$$$$$$$$$                 LoginTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-01-21 17:45:17,421 [main] INFO com.makemytrip.utilities.Log - Clicking using JS on: Login or create account link
+2020-01-21 17:45:17,422 [main] INFO com.makemytrip.utilities.Log - waiting for Login or create account link to be clickable
+2020-01-21 17:45:17,570 [main] INFO com.makemytrip.utilities.Log - Pass: Login or create account link is clickable
+2020-01-21 17:45:17,919 [main] INFO com.makemytrip.utilities.Log - Pass: Login or create account link :is clicked
+2020-01-21 17:45:18,385 [main] INFO com.makemytrip.utilities.Log - Setting text
+2020-01-21 17:45:18,386 [main] INFO com.makemytrip.utilities.Log - waiting for username to display
+2020-01-21 17:45:18,514 [main] INFO com.makemytrip.utilities.Log - Pass: username is displayed
+2020-01-21 17:45:19,534 [main] INFO com.makemytrip.utilities.Log - Pass:shubhanshum22@gmail.com is entered in username text box
+2020-01-21 17:45:19,559 [main] INFO com.makemytrip.utilities.Log - Clicking oncontinue button
+2020-01-21 17:45:19,560 [main] INFO com.makemytrip.utilities.Log - waiting for continue button to be clickable
+2020-01-21 17:45:19,597 [main] INFO com.makemytrip.utilities.Log - Pass: continue button is clickable
+2020-01-21 17:45:19,757 [main] INFO com.makemytrip.utilities.Log - Pass: continue button :is clicked
+2020-01-21 17:47:04,618 [main] INFO com.makemytrip.utilities.Log - Chrome Browser has Launched
+2020-01-21 17:47:08,755 [main] INFO com.makemytrip.utilities.Log - Navigating to URL>https://www.makemytrip.com/
+2020-01-21 17:47:11,469 [main] INFO com.makemytrip.utilities.Log - Pass:Navigated to URL>https://www.makemytrip.com/
+2020-01-21 17:47:11,485 [main] INFO com.makemytrip.utilities.Log - $$$$$$$$$$$$$$$$$$$$$                 LoginTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-01-21 17:47:11,602 [main] INFO com.makemytrip.utilities.Log - Clicking using JS on: Login or create account link
+2020-01-21 17:47:11,602 [main] INFO com.makemytrip.utilities.Log - waiting for Login or create account link to be clickable
+2020-01-21 17:47:12,453 [main] INFO com.makemytrip.utilities.Log - Pass: Login or create account link is clickable
+2020-01-21 17:47:12,869 [main] INFO com.makemytrip.utilities.Log - Pass: Login or create account link :is clicked
+2020-01-21 17:47:12,926 [main] INFO com.makemytrip.utilities.Log - Setting text
+2020-01-21 17:47:12,926 [main] INFO com.makemytrip.utilities.Log - waiting for username to display
+2020-01-21 17:47:13,015 [main] INFO com.makemytrip.utilities.Log - Pass: username is displayed
+2020-01-21 17:47:14,025 [main] INFO com.makemytrip.utilities.Log - Pass:shubhanshum22@gmail.com is entered in username text box
+2020-01-21 17:47:14,045 [main] INFO com.makemytrip.utilities.Log - Clicking oncontinue button
+2020-01-21 17:47:14,046 [main] INFO com.makemytrip.utilities.Log - waiting for continue button to be clickable
+2020-01-21 17:47:14,127 [main] INFO com.makemytrip.utilities.Log - Pass: continue button is clickable
+2020-01-21 17:47:14,407 [main] INFO com.makemytrip.utilities.Log - Pass: continue button :is clicked
+2020-01-21 17:48:01,757 [main] INFO com.makemytrip.utilities.Log - Chrome Browser has Launched
+2020-01-21 17:48:05,891 [main] INFO com.makemytrip.utilities.Log - Navigating to URL>https://www.makemytrip.com/
+2020-01-21 17:48:08,469 [main] INFO com.makemytrip.utilities.Log - Pass:Navigated to URL>https://www.makemytrip.com/
+2020-01-21 17:48:08,485 [main] INFO com.makemytrip.utilities.Log - $$$$$$$$$$$$$$$$$$$$$                 LoginTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-01-21 17:48:08,562 [main] INFO com.makemytrip.utilities.Log - Clicking using JS on: Login or create account link
+2020-01-21 17:48:08,563 [main] INFO com.makemytrip.utilities.Log - waiting for Login or create account link to be clickable
+2020-01-21 17:48:08,725 [main] INFO com.makemytrip.utilities.Log - Pass: Login or create account link is clickable
+2020-01-21 17:48:09,606 [main] INFO com.makemytrip.utilities.Log - Pass: Login or create account link :is clicked
+2020-01-21 17:48:09,840 [main] INFO com.makemytrip.utilities.Log - Setting text
+2020-01-21 17:48:09,841 [main] INFO com.makemytrip.utilities.Log - waiting for username to display
+2020-01-21 17:48:09,887 [main] INFO com.makemytrip.utilities.Log - Pass: username is displayed
+2020-01-21 17:48:10,865 [main] INFO com.makemytrip.utilities.Log - Pass:shubhanshum22@gmail.com is entered in username text box
+2020-01-21 17:48:10,887 [main] INFO com.makemytrip.utilities.Log - Clicking oncontinue button
+2020-01-21 17:48:10,887 [main] INFO com.makemytrip.utilities.Log - waiting for continue button to be clickable
+2020-01-21 17:48:10,923 [main] INFO com.makemytrip.utilities.Log - Pass: continue button is clickable
+2020-01-21 17:48:11,091 [main] INFO com.makemytrip.utilities.Log - Pass: continue button :is clicked
+2020-01-21 17:48:11,107 [main] INFO com.makemytrip.utilities.Log - Clicking oncontinue button
+2020-01-21 17:48:11,107 [main] INFO com.makemytrip.utilities.Log - waiting for continue button to be clickable
+2020-01-21 17:48:11,137 [main] INFO com.makemytrip.utilities.Log - Pass: continue button is clickable
+2020-01-21 17:48:11,257 [main] INFO com.makemytrip.utilities.Log - Pass: continue button :is clicked
+2020-01-21 17:48:26,313 [main] INFO com.makemytrip.utilities.Log - Setting text
+2020-01-21 17:48:26,314 [main] INFO com.makemytrip.utilities.Log - waiting for password to display
+2020-01-21 17:48:26,344 [main] INFO com.makemytrip.utilities.Log - Pass: password is displayed
+2020-01-21 17:48:26,554 [main] INFO com.makemytrip.utilities.Log - Pass:divinity@22 is entered in password text box
+2020-01-21 17:48:26,571 [main] INFO com.makemytrip.utilities.Log - Clicking using JS on: Login button
+2020-01-21 17:48:26,571 [main] INFO com.makemytrip.utilities.Log - waiting for Login button to be clickable
+2020-01-21 17:48:26,599 [main] INFO com.makemytrip.utilities.Log - Pass: Login button is clickable
+2020-01-21 17:48:26,703 [main] INFO com.makemytrip.utilities.Log - Pass: Login button :is clicked
+2020-01-21 17:48:26,718 [main] INFO com.makemytrip.utilities.Log - waiting for password text box to become invisible
+2020-01-21 17:48:36,171 [main] INFO com.makemytrip.utilities.Log - Pass:password text box is invisible
+2020-01-21 17:48:36,202 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 17:48:36,225 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:Hey rahul
+2020-01-21 17:48:36,234 [main] INFO com.makemytrip.utilities.Log - Verifying whether child text is present in parent text
+2020-01-21 17:48:36,235 [main] INFO com.makemytrip.utilities.Log - Pass:child:HeyParent:Hey rahul
+2020-01-21 17:52:34,556 [main] INFO com.makemytrip.utilities.Log - Chrome Browser has Launched
+2020-01-21 17:52:38,721 [main] INFO com.makemytrip.utilities.Log - Navigating to URL>https://www.makemytrip.com/
+2020-01-21 17:52:40,870 [main] INFO com.makemytrip.utilities.Log - Pass:Navigated to URL>https://www.makemytrip.com/
+2020-01-21 17:52:40,886 [main] INFO com.makemytrip.utilities.Log - $$$$$$$$$$$$$$$$$$$$$                 LoginTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-01-21 17:52:41,417 [main] INFO com.makemytrip.utilities.Log - Clicking using JS on: Login or create account link
+2020-01-21 17:52:41,418 [main] INFO com.makemytrip.utilities.Log - waiting for Login or create account link to be clickable
+2020-01-21 17:52:41,561 [main] INFO com.makemytrip.utilities.Log - Pass: Login or create account link is clickable
+2020-01-21 17:52:42,329 [main] INFO com.makemytrip.utilities.Log - Pass: Login or create account link :is clicked
+2020-01-21 17:52:42,617 [main] INFO com.makemytrip.utilities.Log - Setting text
+2020-01-21 17:52:42,617 [main] INFO com.makemytrip.utilities.Log - waiting for username to display
+2020-01-21 17:52:42,915 [main] INFO com.makemytrip.utilities.Log - Pass: username is displayed
+2020-01-21 17:52:43,817 [main] INFO com.makemytrip.utilities.Log - Pass:shubhanshum22@gmail.com is entered in username text box
+2020-01-21 17:52:43,838 [main] INFO com.makemytrip.utilities.Log - Clicking oncontinue button
+2020-01-21 17:52:43,838 [main] INFO com.makemytrip.utilities.Log - waiting for continue button to be clickable
+2020-01-21 17:52:43,884 [main] INFO com.makemytrip.utilities.Log - Pass: continue button is clickable
+2020-01-21 17:52:44,065 [main] INFO com.makemytrip.utilities.Log - Pass: continue button :is clicked
+2020-01-21 17:52:44,112 [main] INFO com.makemytrip.utilities.Log - Clicking oncontinue button
+2020-01-21 17:52:44,113 [main] INFO com.makemytrip.utilities.Log - waiting for continue button to be clickable
+2020-01-21 17:52:44,164 [main] INFO com.makemytrip.utilities.Log - Pass: continue button is clickable
+2020-01-21 17:52:44,311 [main] INFO com.makemytrip.utilities.Log - Pass: continue button :is clicked
+2020-01-21 17:54:09,320 [main] INFO com.makemytrip.utilities.Log - Chrome Browser has Launched
+2020-01-21 17:54:13,454 [main] INFO com.makemytrip.utilities.Log - Navigating to URL>https://www.makemytrip.com/
+2020-01-21 17:54:16,417 [main] INFO com.makemytrip.utilities.Log - Pass:Navigated to URL>https://www.makemytrip.com/
+2020-01-21 17:54:16,436 [main] INFO com.makemytrip.utilities.Log - $$$$$$$$$$$$$$$$$$$$$                 LoginTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-01-21 17:54:16,482 [main] INFO com.makemytrip.utilities.Log - Clicking using JS on: Login or create account link
+2020-01-21 17:54:16,483 [main] INFO com.makemytrip.utilities.Log - waiting for Login or create account link to be clickable
+2020-01-21 17:54:16,620 [main] INFO com.makemytrip.utilities.Log - Pass: Login or create account link is clickable
+2020-01-21 17:54:16,950 [main] INFO com.makemytrip.utilities.Log - Pass: Login or create account link :is clicked
+2020-01-21 17:54:17,456 [main] INFO com.makemytrip.utilities.Log - Setting text
+2020-01-21 17:54:17,456 [main] INFO com.makemytrip.utilities.Log - waiting for username to display
+2020-01-21 17:54:17,594 [main] INFO com.makemytrip.utilities.Log - Pass: username is displayed
+2020-01-21 17:54:18,649 [main] INFO com.makemytrip.utilities.Log - Pass:shubhanshum22@gmail.com is entered in username text box
+2020-01-21 17:54:18,668 [main] INFO com.makemytrip.utilities.Log - Clicking oncontinue button
+2020-01-21 17:54:18,668 [main] INFO com.makemytrip.utilities.Log - waiting for continue button to be clickable
+2020-01-21 17:54:18,702 [main] INFO com.makemytrip.utilities.Log - Pass: continue button is clickable
+2020-01-21 17:54:18,855 [main] INFO com.makemytrip.utilities.Log - Pass: continue button :is clicked
+2020-01-21 17:54:18,879 [main] INFO com.makemytrip.utilities.Log - Clicking oncontinue button
+2020-01-21 17:54:18,879 [main] INFO com.makemytrip.utilities.Log - waiting for continue button to be clickable
+2020-01-21 17:54:18,918 [main] INFO com.makemytrip.utilities.Log - Pass: continue button is clickable
+2020-01-21 17:54:19,064 [main] INFO com.makemytrip.utilities.Log - Pass: continue button :is clicked
+2020-01-21 17:54:19,101 [main] INFO com.makemytrip.utilities.Log - waiting for Continue button to become invisible
+2020-01-21 17:54:29,374 [main] INFO com.makemytrip.utilities.Log - Pass:Continue button is invisible
+2020-01-21 17:54:29,393 [main] INFO com.makemytrip.utilities.Log - Setting text
+2020-01-21 17:54:29,394 [main] INFO com.makemytrip.utilities.Log - waiting for password to display
+2020-01-21 17:54:29,412 [main] INFO com.makemytrip.utilities.Log - Pass: password is displayed
+2020-01-21 17:54:29,645 [main] INFO com.makemytrip.utilities.Log - Pass:divinity@22 is entered in password text box
+2020-01-21 17:54:29,661 [main] INFO com.makemytrip.utilities.Log - Clicking using JS on: Login button
+2020-01-21 17:54:29,662 [main] INFO com.makemytrip.utilities.Log - waiting for Login button to be clickable
+2020-01-21 17:54:29,690 [main] INFO com.makemytrip.utilities.Log - Pass: Login button is clickable
+2020-01-21 17:54:29,789 [main] INFO com.makemytrip.utilities.Log - Pass: Login button :is clicked
+2020-01-21 17:54:29,801 [main] INFO com.makemytrip.utilities.Log - waiting for password text box to become invisible
+2020-01-21 17:54:40,974 [main] INFO com.makemytrip.utilities.Log - Pass:password text box is invisible
+2020-01-21 17:54:41,007 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 17:54:41,031 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:Hey rahul
+2020-01-21 17:54:41,032 [main] INFO com.makemytrip.utilities.Log - Verifying whether child text is present in parent text
+2020-01-21 17:54:41,032 [main] INFO com.makemytrip.utilities.Log - Pass:child:HeyParent:Hey rahul
+2020-01-21 17:55:05,033 [main] INFO com.makemytrip.utilities.Log - Chrome Browser has Launched
+2020-01-21 17:55:09,170 [main] INFO com.makemytrip.utilities.Log - Navigating to URL>https://www.makemytrip.com/
+2020-01-21 17:55:11,965 [main] INFO com.makemytrip.utilities.Log - Pass:Navigated to URL>https://www.makemytrip.com/
+2020-01-21 17:55:11,986 [main] INFO com.makemytrip.utilities.Log - $$$$$$$$$$$$$$$$$$$$$                 LoginTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-01-21 17:55:12,032 [main] INFO com.makemytrip.utilities.Log - Clicking using JS on: Login or create account link
+2020-01-21 17:55:12,033 [main] INFO com.makemytrip.utilities.Log - waiting for Login or create account link to be clickable
+2020-01-21 17:55:12,170 [main] INFO com.makemytrip.utilities.Log - Pass: Login or create account link is clickable
+2020-01-21 17:55:12,437 [main] INFO com.makemytrip.utilities.Log - Pass: Login or create account link :is clicked
+2020-01-21 17:55:12,934 [main] INFO com.makemytrip.utilities.Log - Setting text
+2020-01-21 17:55:12,935 [main] INFO com.makemytrip.utilities.Log - waiting for username to display
+2020-01-21 17:55:13,078 [main] INFO com.makemytrip.utilities.Log - Pass: username is displayed
+2020-01-21 17:55:13,989 [main] INFO com.makemytrip.utilities.Log - Pass:shubhanshum22@gmail.com is entered in username text box
+2020-01-21 17:55:14,019 [main] INFO com.makemytrip.utilities.Log - Clicking oncontinue button
+2020-01-21 17:55:14,019 [main] INFO com.makemytrip.utilities.Log - waiting for continue button to be clickable
+2020-01-21 17:55:14,063 [main] INFO com.makemytrip.utilities.Log - Pass: continue button is clickable
+2020-01-21 17:55:14,235 [main] INFO com.makemytrip.utilities.Log - Pass: continue button :is clicked
+2020-01-21 17:55:14,265 [main] INFO com.makemytrip.utilities.Log - waiting for Continue button to become invisible
+2020-01-21 17:56:00,467 [main] INFO com.makemytrip.utilities.Log - Chrome Browser has Launched
+2020-01-21 17:56:04,606 [main] INFO com.makemytrip.utilities.Log - Navigating to URL>https://www.makemytrip.com/
+2020-01-21 17:56:07,504 [main] INFO com.makemytrip.utilities.Log - Pass:Navigated to URL>https://www.makemytrip.com/
+2020-01-21 17:56:07,523 [main] INFO com.makemytrip.utilities.Log - $$$$$$$$$$$$$$$$$$$$$                 LoginTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-01-21 17:56:07,569 [main] INFO com.makemytrip.utilities.Log - Clicking using JS on: Login or create account link
+2020-01-21 17:56:07,570 [main] INFO com.makemytrip.utilities.Log - waiting for Login or create account link to be clickable
+2020-01-21 17:56:07,717 [main] INFO com.makemytrip.utilities.Log - Pass: Login or create account link is clickable
+2020-01-21 17:56:07,987 [main] INFO com.makemytrip.utilities.Log - Pass: Login or create account link :is clicked
+2020-01-21 17:56:08,482 [main] INFO com.makemytrip.utilities.Log - Setting text
+2020-01-21 17:56:08,483 [main] INFO com.makemytrip.utilities.Log - waiting for username to display
+2020-01-21 17:56:08,671 [main] INFO com.makemytrip.utilities.Log - Pass: username is displayed
+2020-01-21 17:56:09,524 [main] INFO com.makemytrip.utilities.Log - Pass:shubhanshum22@gmail.com is entered in username text box
+2020-01-21 17:56:09,586 [main] INFO com.makemytrip.utilities.Log - Clicking oncontinue button
+2020-01-21 17:56:09,587 [main] INFO com.makemytrip.utilities.Log - waiting for continue button to be clickable
+2020-01-21 17:56:09,624 [main] INFO com.makemytrip.utilities.Log - Pass: continue button is clickable
+2020-01-21 17:56:09,794 [main] INFO com.makemytrip.utilities.Log - Pass: continue button :is clicked
+2020-01-21 17:56:09,809 [main] INFO com.makemytrip.utilities.Log - waiting for Continue button to become invisible
+2020-01-21 17:57:02,454 [main] INFO com.makemytrip.utilities.Log - Chrome Browser has Launched
+2020-01-21 17:57:06,616 [main] INFO com.makemytrip.utilities.Log - Navigating to URL>https://www.makemytrip.com/
+2020-01-21 17:57:08,977 [main] INFO com.makemytrip.utilities.Log - Pass:Navigated to URL>https://www.makemytrip.com/
+2020-01-21 17:57:08,994 [main] INFO com.makemytrip.utilities.Log - $$$$$$$$$$$$$$$$$$$$$                 LoginTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-01-21 17:57:09,196 [main] INFO com.makemytrip.utilities.Log - Clicking using JS on: Login or create account link
+2020-01-21 17:57:09,197 [main] INFO com.makemytrip.utilities.Log - waiting for Login or create account link to be clickable
+2020-01-21 17:57:09,955 [main] INFO com.makemytrip.utilities.Log - Pass: Login or create account link is clickable
+2020-01-21 17:57:10,350 [main] INFO com.makemytrip.utilities.Log - Pass: Login or create account link :is clicked
+2020-01-21 17:57:10,432 [main] INFO com.makemytrip.utilities.Log - Setting text
+2020-01-21 17:57:10,433 [main] INFO com.makemytrip.utilities.Log - waiting for username to display
+2020-01-21 17:57:10,503 [main] INFO com.makemytrip.utilities.Log - Pass: username is displayed
+2020-01-21 17:57:11,611 [main] INFO com.makemytrip.utilities.Log - Pass:shubhanshum22@gmail.com is entered in username text box
+2020-01-21 17:57:11,641 [main] INFO com.makemytrip.utilities.Log - Clicking oncontinue button
+2020-01-21 17:57:11,642 [main] INFO com.makemytrip.utilities.Log - waiting for continue button to be clickable
+2020-01-21 17:57:11,702 [main] INFO com.makemytrip.utilities.Log - Pass: continue button is clickable
+2020-01-21 17:57:11,982 [main] INFO com.makemytrip.utilities.Log - Pass: continue button :is clicked
+2020-01-21 17:57:11,997 [main] INFO com.makemytrip.utilities.Log - Clicking oncontinue button
+2020-01-21 17:57:11,998 [main] INFO com.makemytrip.utilities.Log - waiting for continue button to be clickable
+2020-01-21 17:57:12,042 [main] INFO com.makemytrip.utilities.Log - Pass: continue button is clickable
+2020-01-21 17:57:12,221 [main] INFO com.makemytrip.utilities.Log - Pass: continue button :is clicked
+2020-01-21 17:57:12,239 [main] INFO com.makemytrip.utilities.Log - waiting for Continue button to become invisible
+2020-01-21 17:57:22,935 [main] INFO com.makemytrip.utilities.Log - Pass:Continue button is invisible
+2020-01-21 17:57:22,957 [main] INFO com.makemytrip.utilities.Log - Setting text
+2020-01-21 17:57:22,957 [main] INFO com.makemytrip.utilities.Log - waiting for password to display
+2020-01-21 17:57:22,982 [main] INFO com.makemytrip.utilities.Log - Pass: password is displayed
+2020-01-21 17:57:23,213 [main] INFO com.makemytrip.utilities.Log - Pass:divinity@22 is entered in password text box
+2020-01-21 17:57:23,229 [main] INFO com.makemytrip.utilities.Log - Clicking using JS on: Login button
+2020-01-21 17:57:23,230 [main] INFO com.makemytrip.utilities.Log - waiting for Login button to be clickable
+2020-01-21 17:57:23,257 [main] INFO com.makemytrip.utilities.Log - Pass: Login button is clickable
+2020-01-21 17:57:23,352 [main] INFO com.makemytrip.utilities.Log - Pass: Login button :is clicked
+2020-01-21 17:57:23,376 [main] INFO com.makemytrip.utilities.Log - waiting for password text box to become invisible
+2020-01-21 17:57:32,636 [main] INFO com.makemytrip.utilities.Log - Pass:password text box is invisible
+2020-01-21 17:57:32,677 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 17:57:32,698 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:Hey rahul
+2020-01-21 17:57:32,700 [main] INFO com.makemytrip.utilities.Log - Verifying whether child text is present in parent text
+2020-01-21 17:57:32,700 [main] INFO com.makemytrip.utilities.Log - Pass:child:HeyParent:Hey rahul
+2020-01-21 18:36:22,479 [main] INFO com.makemytrip.utilities.Log - Chrome Browser has Launched
+2020-01-21 18:36:26,644 [main] INFO com.makemytrip.utilities.Log - Navigating to URL>https://www.makemytrip.com/
+2020-01-21 18:36:29,626 [main] INFO com.makemytrip.utilities.Log - Pass:Navigated to URL>https://www.makemytrip.com/
+2020-01-21 18:36:29,644 [main] INFO com.makemytrip.utilities.Log - $$$$$$$$$$$$$$$$$$$$$                 LoginTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-01-21 18:36:29,691 [main] INFO com.makemytrip.utilities.Log - Clicking using JS on: Login or create account link
+2020-01-21 18:36:29,691 [main] INFO com.makemytrip.utilities.Log - waiting for Login or create account link to be clickable
+2020-01-21 18:36:29,835 [main] INFO com.makemytrip.utilities.Log - Pass: Login or create account link is clickable
+2020-01-21 18:36:30,109 [main] INFO com.makemytrip.utilities.Log - Pass: Login or create account link :is clicked
+2020-01-21 18:36:30,603 [main] INFO com.makemytrip.utilities.Log - Setting text
+2020-01-21 18:36:30,604 [main] INFO com.makemytrip.utilities.Log - waiting for username to display
+2020-01-21 18:36:30,751 [main] INFO com.makemytrip.utilities.Log - Pass: username is displayed
+2020-01-21 18:36:31,657 [main] INFO com.makemytrip.utilities.Log - Pass:shubhanshum22@gmail.com is entered in username text box
+2020-01-21 18:36:31,717 [main] INFO com.makemytrip.utilities.Log - Clicking oncontinue button
+2020-01-21 18:36:31,718 [main] INFO com.makemytrip.utilities.Log - waiting for continue button to be clickable
+2020-01-21 18:36:31,754 [main] INFO com.makemytrip.utilities.Log - Pass: continue button is clickable
+2020-01-21 18:36:31,920 [main] INFO com.makemytrip.utilities.Log - Pass: continue button :is clicked
+2020-01-21 18:36:31,943 [main] INFO com.makemytrip.utilities.Log - Clicking oncontinue button
+2020-01-21 18:36:31,944 [main] INFO com.makemytrip.utilities.Log - waiting for continue button to be clickable
+2020-01-21 18:36:31,975 [main] INFO com.makemytrip.utilities.Log - Pass: continue button is clickable
+2020-01-21 18:36:32,103 [main] INFO com.makemytrip.utilities.Log - Pass: continue button :is clicked
+2020-01-21 18:36:32,118 [main] INFO com.makemytrip.utilities.Log - waiting for Continue button to become invisible
+2020-01-21 18:36:42,506 [main] INFO com.makemytrip.utilities.Log - Pass:Continue button is invisible
+2020-01-21 18:36:42,523 [main] INFO com.makemytrip.utilities.Log - Setting text
+2020-01-21 18:36:42,523 [main] INFO com.makemytrip.utilities.Log - waiting for password to display
+2020-01-21 18:36:42,541 [main] INFO com.makemytrip.utilities.Log - Pass: password is displayed
+2020-01-21 18:36:42,768 [main] INFO com.makemytrip.utilities.Log - Pass:divinity@22 is entered in password text box
+2020-01-21 18:36:42,787 [main] INFO com.makemytrip.utilities.Log - Clicking using JS on: Login button
+2020-01-21 18:36:42,787 [main] INFO com.makemytrip.utilities.Log - waiting for Login button to be clickable
+2020-01-21 18:36:42,815 [main] INFO com.makemytrip.utilities.Log - Pass: Login button is clickable
+2020-01-21 18:36:42,912 [main] INFO com.makemytrip.utilities.Log - Pass: Login button :is clicked
+2020-01-21 18:36:42,928 [main] INFO com.makemytrip.utilities.Log - waiting for password text box to become invisible
+2020-01-21 18:36:52,203 [main] INFO com.makemytrip.utilities.Log - Pass:password text box is invisible
+2020-01-21 18:36:52,235 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 18:36:52,280 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:Hey rahul
+2020-01-21 18:36:52,290 [main] INFO com.makemytrip.utilities.Log - Verifying whether child text is present in parent text
+2020-01-21 18:36:52,291 [main] INFO com.makemytrip.utilities.Log - Pass:child:HeyParent:Hey rahul
+2020-01-21 18:37:02,393 [main] INFO com.makemytrip.utilities.Log - Chrome Browser has Launched
+2020-01-21 18:37:06,524 [main] INFO com.makemytrip.utilities.Log - Navigating to URL>https://www.makemytrip.com/
+2020-01-21 18:37:08,915 [main] INFO com.makemytrip.utilities.Log - Pass:Navigated to URL>https://www.makemytrip.com/
+2020-01-21 18:37:09,260 [main] INFO com.makemytrip.utilities.Log - Clicking using JS on: Round trip radio button
+2020-01-21 18:37:09,261 [main] INFO com.makemytrip.utilities.Log - waiting for Round trip radio button to be clickable
+2020-01-21 18:37:09,311 [main] INFO com.makemytrip.utilities.Log - Pass: Round trip radio button is clickable
+2020-01-21 18:37:09,357 [main] INFO com.makemytrip.utilities.Log - Pass: Round trip radio button :is clicked
+2020-01-21 18:37:09,379 [main] INFO com.makemytrip.utilities.Log - Clicking using JS on: Student fare button
+2020-01-21 18:37:09,380 [main] INFO com.makemytrip.utilities.Log - waiting for Student fare button to be clickable
+2020-01-21 18:37:09,430 [main] INFO com.makemytrip.utilities.Log - Pass: Student fare button is clickable
+2020-01-21 18:37:09,450 [main] INFO com.makemytrip.utilities.Log - Pass: Student fare button :is clicked
+2020-01-21 18:37:09,470 [main] INFO com.makemytrip.utilities.Log - Clicking using JS on: Search button
+2020-01-21 18:37:09,471 [main] INFO com.makemytrip.utilities.Log - waiting for Search button to be clickable
+2020-01-21 18:37:09,512 [main] INFO com.makemytrip.utilities.Log - Pass: Search button is clickable
+2020-01-21 18:37:09,540 [main] INFO com.makemytrip.utilities.Log - Pass: Search button :is clicked
+2020-01-21 18:37:09,549 [main] INFO com.makemytrip.utilities.Log - Waiting for borwser to load
+2020-01-21 18:37:15,786 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 18:37:15,899 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:Go Air |G8-124
+2020-01-21 18:37:15,923 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 18:37:15,996 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:? 6,746
+2020-01-21 18:37:16,045 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 18:37:16,104 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:Go Air |G8-113
+2020-01-21 18:37:16,128 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 18:37:16,168 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:? 6,746
+2020-01-21 18:37:16,185 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 18:37:16,217 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:Go Air |G8-557
+2020-01-21 18:37:16,234 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 18:37:16,353 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:? 6,746
+2020-01-21 18:37:16,369 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 18:37:16,398 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:Go Air |G8-286
+2020-01-21 18:37:16,414 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 18:37:16,434 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:? 13,004
+2020-01-21 18:41:06,017 [main] INFO com.makemytrip.utilities.Log - Chrome Browser has Launched
+2020-01-21 18:41:10,150 [main] INFO com.makemytrip.utilities.Log - Navigating to URL>https://www.makemytrip.com/
+2020-01-21 18:41:12,847 [main] INFO com.makemytrip.utilities.Log - Pass:Navigated to URL>https://www.makemytrip.com/
+2020-01-21 18:41:12,863 [main] INFO com.makemytrip.utilities.Log - $$$$$$$$$$$$$$$$$$$$$                 LoginTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-01-21 18:41:12,933 [main] INFO com.makemytrip.utilities.Log - Clicking using JS on: Login or create account link
+2020-01-21 18:41:12,933 [main] INFO com.makemytrip.utilities.Log - waiting for Login or create account link to be clickable
+2020-01-21 18:41:13,813 [main] INFO com.makemytrip.utilities.Log - Pass: Login or create account link is clickable
+2020-01-21 18:41:14,213 [main] INFO com.makemytrip.utilities.Log - Pass: Login or create account link :is clicked
+2020-01-21 18:41:14,257 [main] INFO com.makemytrip.utilities.Log - Setting text
+2020-01-21 18:41:14,258 [main] INFO com.makemytrip.utilities.Log - waiting for username to display
+2020-01-21 18:41:14,312 [main] INFO com.makemytrip.utilities.Log - Pass: username is displayed
+2020-01-21 18:41:15,346 [main] INFO com.makemytrip.utilities.Log - Pass:shubhanshum22@gmail.com is entered in username text box
+2020-01-21 18:41:15,388 [main] INFO com.makemytrip.utilities.Log - Clicking oncontinue button
+2020-01-21 18:41:15,389 [main] INFO com.makemytrip.utilities.Log - waiting for continue button to be clickable
+2020-01-21 18:41:15,440 [main] INFO com.makemytrip.utilities.Log - Pass: continue button is clickable
+2020-01-21 18:41:15,632 [main] INFO com.makemytrip.utilities.Log - Pass: continue button :is clicked
+2020-01-21 18:41:15,666 [main] INFO com.makemytrip.utilities.Log - Clicking oncontinue button
+2020-01-21 18:41:15,667 [main] INFO com.makemytrip.utilities.Log - waiting for continue button to be clickable
+2020-01-21 18:41:15,703 [main] INFO com.makemytrip.utilities.Log - Pass: continue button is clickable
+2020-01-21 18:41:15,844 [main] INFO com.makemytrip.utilities.Log - Pass: continue button :is clicked
+2020-01-21 18:41:15,899 [main] INFO com.makemytrip.utilities.Log - waiting for Continue button to become invisible
+2020-01-21 18:41:26,194 [main] INFO com.makemytrip.utilities.Log - Pass:Continue button is invisible
+2020-01-21 18:41:26,211 [main] INFO com.makemytrip.utilities.Log - Setting text
+2020-01-21 18:41:26,211 [main] INFO com.makemytrip.utilities.Log - waiting for password to display
+2020-01-21 18:41:26,228 [main] INFO com.makemytrip.utilities.Log - Pass: password is displayed
+2020-01-21 18:41:26,449 [main] INFO com.makemytrip.utilities.Log - Pass:divinity@22 is entered in password text box
+2020-01-21 18:41:26,466 [main] INFO com.makemytrip.utilities.Log - Clicking using JS on: Login button
+2020-01-21 18:41:26,466 [main] INFO com.makemytrip.utilities.Log - waiting for Login button to be clickable
+2020-01-21 18:41:26,493 [main] INFO com.makemytrip.utilities.Log - Pass: Login button is clickable
+2020-01-21 18:41:26,593 [main] INFO com.makemytrip.utilities.Log - Pass: Login button :is clicked
+2020-01-21 18:41:26,610 [main] INFO com.makemytrip.utilities.Log - waiting for password text box to become invisible
+2020-01-21 18:41:37,901 [main] INFO com.makemytrip.utilities.Log - Pass:password text box is invisible
+2020-01-21 18:41:37,920 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 18:41:37,946 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:Hey rahul
+2020-01-21 18:41:37,947 [main] INFO com.makemytrip.utilities.Log - Verifying whether child text is present in parent text
+2020-01-21 18:41:37,948 [main] INFO com.makemytrip.utilities.Log - Pass:child:HeyParent:Hey rahul
+2020-01-21 18:41:48,056 [main] INFO com.makemytrip.utilities.Log - Chrome Browser has Launched
+2020-01-21 18:41:52,210 [main] INFO com.makemytrip.utilities.Log - Navigating to URL>https://www.makemytrip.com/
+2020-01-21 18:41:54,647 [main] INFO com.makemytrip.utilities.Log - Pass:Navigated to URL>https://www.makemytrip.com/
+2020-01-21 18:42:01,368 [main] INFO com.makemytrip.utilities.Log - Chrome Browser has Launched
+2020-01-21 18:42:05,523 [main] INFO com.makemytrip.utilities.Log - Navigating to URL>https://www.makemytrip.com/
+2020-01-21 18:42:08,471 [main] INFO com.makemytrip.utilities.Log - Pass:Navigated to URL>https://www.makemytrip.com/
+2020-01-21 18:42:08,511 [main] INFO com.makemytrip.utilities.Log - Clicking using JS on: Round trip radio button
+2020-01-21 18:42:08,511 [main] INFO com.makemytrip.utilities.Log - waiting for Round trip radio button to be clickable
+2020-01-21 18:42:08,591 [main] INFO com.makemytrip.utilities.Log - Pass: Round trip radio button is clickable
+2020-01-21 18:42:08,683 [main] INFO com.makemytrip.utilities.Log - Pass: Round trip radio button :is clicked
+2020-01-21 18:42:08,712 [main] INFO com.makemytrip.utilities.Log - Clicking using JS on: Student fare button
+2020-01-21 18:42:08,712 [main] INFO com.makemytrip.utilities.Log - waiting for Student fare button to be clickable
+2020-01-21 18:42:08,764 [main] INFO com.makemytrip.utilities.Log - Pass: Student fare button is clickable
+2020-01-21 18:42:08,783 [main] INFO com.makemytrip.utilities.Log - Pass: Student fare button :is clicked
+2020-01-21 18:42:08,804 [main] INFO com.makemytrip.utilities.Log - Clicking using JS on: Search button
+2020-01-21 18:42:08,804 [main] INFO com.makemytrip.utilities.Log - waiting for Search button to be clickable
+2020-01-21 18:42:08,843 [main] INFO com.makemytrip.utilities.Log - Pass: Search button is clickable
+2020-01-21 18:42:08,874 [main] INFO com.makemytrip.utilities.Log - Pass: Search button :is clicked
+2020-01-21 18:42:08,876 [main] INFO com.makemytrip.utilities.Log - Waiting for borwser to load
+2020-01-21 18:42:15,104 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 18:42:15,277 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:Go Air |G8-124
+2020-01-21 18:42:15,304 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 18:42:16,186 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:? 6,746
+2020-01-21 18:42:16,202 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 18:42:16,237 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:Go Air |G8-113
+2020-01-21 18:42:16,258 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 18:42:16,300 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:? 6,746
+2020-01-21 18:42:16,316 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 18:42:16,347 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:Go Air |G8-557
+2020-01-21 18:42:16,364 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 18:42:16,393 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:? 6,746
+2020-01-21 18:42:16,409 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 18:42:16,469 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:Go Air |G8-286
+2020-01-21 18:42:16,520 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 18:42:16,598 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:? 15,883
+2020-01-21 18:48:01,429 [main] INFO com.makemytrip.utilities.Log - Chrome Browser has Launched
+2020-01-21 18:48:05,569 [main] INFO com.makemytrip.utilities.Log - Navigating to URL>https://www.makemytrip.com/
+2020-01-21 18:48:08,410 [main] INFO com.makemytrip.utilities.Log - Pass:Navigated to URL>https://www.makemytrip.com/
+2020-01-21 18:48:14,406 [main] INFO com.makemytrip.utilities.Log - Chrome Browser has Launched
+2020-01-21 18:48:18,555 [main] INFO com.makemytrip.utilities.Log - Navigating to URL>https://www.makemytrip.com/
+2020-01-21 18:48:45,865 [main] INFO com.makemytrip.utilities.Log - Pass:Navigated to URL>https://www.makemytrip.com/
+2020-01-21 18:48:45,884 [main] INFO com.makemytrip.utilities.Log - $$$$$$$$$$$$$$$$$$$$$                 LoginTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-01-21 18:48:45,919 [main] INFO com.makemytrip.utilities.Log - Clicking using JS on: Login or create account link
+2020-01-21 18:48:45,920 [main] INFO com.makemytrip.utilities.Log - waiting for Login or create account link to be clickable
+2020-01-21 18:48:46,109 [main] INFO com.makemytrip.utilities.Log - Pass: Login or create account link is clickable
+2020-01-21 18:48:46,427 [main] INFO com.makemytrip.utilities.Log - Pass: Login or create account link :is clicked
+2020-01-21 18:48:46,998 [main] INFO com.makemytrip.utilities.Log - Setting text
+2020-01-21 18:48:46,999 [main] INFO com.makemytrip.utilities.Log - waiting for username to display
+2020-01-21 18:48:47,144 [main] INFO com.makemytrip.utilities.Log - Pass: username is displayed
+2020-01-21 18:48:48,262 [main] INFO com.makemytrip.utilities.Log - Pass:shubhanshum22@gmail.com is entered in username text box
+2020-01-21 18:48:48,298 [main] INFO com.makemytrip.utilities.Log - Clicking oncontinue button
+2020-01-21 18:48:48,299 [main] INFO com.makemytrip.utilities.Log - waiting for continue button to be clickable
+2020-01-21 18:48:48,338 [main] INFO com.makemytrip.utilities.Log - Pass: continue button is clickable
+2020-01-21 18:48:48,489 [main] INFO com.makemytrip.utilities.Log - Pass: continue button :is clicked
+2020-01-21 18:48:48,507 [main] INFO com.makemytrip.utilities.Log - Clicking oncontinue button
+2020-01-21 18:48:48,508 [main] INFO com.makemytrip.utilities.Log - waiting for continue button to be clickable
+2020-01-21 18:48:48,549 [main] INFO com.makemytrip.utilities.Log - Pass: continue button is clickable
+2020-01-21 18:48:48,682 [main] INFO com.makemytrip.utilities.Log - Pass: continue button :is clicked
+2020-01-21 18:48:48,721 [main] INFO com.makemytrip.utilities.Log - waiting for Continue button to become invisible
+2020-01-21 18:48:59,416 [main] INFO com.makemytrip.utilities.Log - Pass:Continue button is invisible
+2020-01-21 18:48:59,437 [main] INFO com.makemytrip.utilities.Log - Setting text
+2020-01-21 18:48:59,437 [main] INFO com.makemytrip.utilities.Log - waiting for password to display
+2020-01-21 18:48:59,455 [main] INFO com.makemytrip.utilities.Log - Pass: password is displayed
+2020-01-21 18:48:59,774 [main] INFO com.makemytrip.utilities.Log - Pass:divinity@22 is entered in password text box
+2020-01-21 18:48:59,795 [main] INFO com.makemytrip.utilities.Log - Clicking using JS on: Login button
+2020-01-21 18:48:59,795 [main] INFO com.makemytrip.utilities.Log - waiting for Login button to be clickable
+2020-01-21 18:48:59,834 [main] INFO com.makemytrip.utilities.Log - Pass: Login button is clickable
+2020-01-21 18:48:59,958 [main] INFO com.makemytrip.utilities.Log - Pass: Login button :is clicked
+2020-01-21 18:48:59,981 [main] INFO com.makemytrip.utilities.Log - waiting for password text box to become invisible
+2020-01-21 18:49:09,580 [main] INFO com.makemytrip.utilities.Log - Pass:password text box is invisible
+2020-01-21 18:49:09,618 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 18:49:09,711 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:Hey rahul
+2020-01-21 18:49:09,713 [main] INFO com.makemytrip.utilities.Log - Verifying whether child text is present in parent text
+2020-01-21 18:49:09,714 [main] INFO com.makemytrip.utilities.Log - Pass:child:HeyParent:Hey rahul
+2020-01-21 18:49:20,188 [main] INFO com.makemytrip.utilities.Log - Chrome Browser has Launched
+2020-01-21 18:49:24,336 [main] INFO com.makemytrip.utilities.Log - Navigating to URL>https://www.makemytrip.com/
+2020-01-21 18:49:28,327 [main] INFO com.makemytrip.utilities.Log - Pass:Navigated to URL>https://www.makemytrip.com/
+2020-01-21 18:49:28,357 [main] INFO com.makemytrip.utilities.Log - Clicking using JS on: Round trip radio button
+2020-01-21 18:49:28,357 [main] INFO com.makemytrip.utilities.Log - waiting for Round trip radio button to be clickable
+2020-01-21 18:49:28,545 [main] INFO com.makemytrip.utilities.Log - Pass: Round trip radio button is clickable
+2020-01-21 18:49:28,660 [main] INFO com.makemytrip.utilities.Log - Pass: Round trip radio button :is clicked
+2020-01-21 18:49:28,682 [main] INFO com.makemytrip.utilities.Log - Clicking using JS on: Student fare button
+2020-01-21 18:49:28,683 [main] INFO com.makemytrip.utilities.Log - waiting for Student fare button to be clickable
+2020-01-21 18:49:30,159 [main] INFO com.makemytrip.utilities.Log - Pass: Student fare button is clickable
+2020-01-21 18:49:30,359 [main] INFO com.makemytrip.utilities.Log - Pass: Student fare button :is clicked
+2020-01-21 18:49:30,416 [main] INFO com.makemytrip.utilities.Log - Clicking using JS on: Search button
+2020-01-21 18:49:30,416 [main] INFO com.makemytrip.utilities.Log - waiting for Search button to be clickable
+2020-01-21 18:49:30,481 [main] INFO com.makemytrip.utilities.Log - Pass: Search button is clickable
+2020-01-21 18:49:30,729 [main] INFO com.makemytrip.utilities.Log - Pass: Search button :is clicked
+2020-01-21 18:49:30,730 [main] INFO com.makemytrip.utilities.Log - Waiting for borwser to load
+2020-01-21 18:49:37,528 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 18:49:37,556 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:Go Air |G8-124
+2020-01-21 18:49:37,578 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 18:49:37,608 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:? 6,746
+2020-01-21 18:49:37,627 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 18:49:37,673 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:Go Air |G8-113
+2020-01-21 18:49:37,689 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 18:49:37,732 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:? 6,746
+2020-01-21 18:49:37,768 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 18:49:37,806 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:Go Air |G8-557
+2020-01-21 18:49:37,828 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 18:49:37,880 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:? 6,746
+2020-01-21 18:49:37,909 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 18:49:37,948 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:Go Air |G8-286
+2020-01-21 18:49:37,971 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 18:49:38,002 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:? 15,883
+2020-01-21 18:51:15,271 [main] INFO com.makemytrip.utilities.Log - Chrome Browser has Launched
+2020-01-21 18:51:19,405 [main] INFO com.makemytrip.utilities.Log - Navigating to URL>https://www.makemytrip.com/
+2020-01-21 18:51:21,800 [main] INFO com.makemytrip.utilities.Log - Pass:Navigated to URL>https://www.makemytrip.com/
+2020-01-21 18:51:21,817 [main] INFO com.makemytrip.utilities.Log - $$$$$$$$$$$$$$$$$$$$$                 LoginTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-01-21 18:51:21,906 [main] INFO com.makemytrip.utilities.Log - Clicking using JS on: Login or create account link
+2020-01-21 18:51:21,907 [main] INFO com.makemytrip.utilities.Log - waiting for Login or create account link to be clickable
+2020-01-21 18:51:22,925 [main] INFO com.makemytrip.utilities.Log - Pass: Login or create account link is clickable
+2020-01-21 18:51:23,413 [main] INFO com.makemytrip.utilities.Log - Pass: Login or create account link :is clicked
+2020-01-21 18:51:23,682 [main] INFO com.makemytrip.utilities.Log - Setting text
+2020-01-21 18:51:23,683 [main] INFO com.makemytrip.utilities.Log - waiting for username to display
+2020-01-21 18:51:23,754 [main] INFO com.makemytrip.utilities.Log - Pass: username is displayed
+2020-01-21 18:51:31,463 [main] INFO com.makemytrip.utilities.Log - Pass:shubhanshum22@gmail.com is entered in username text box
+2020-01-21 18:51:31,507 [main] INFO com.makemytrip.utilities.Log - Clicking oncontinue button
+2020-01-21 18:51:31,507 [main] INFO com.makemytrip.utilities.Log - waiting for continue button to be clickable
+2020-01-21 18:51:31,636 [main] INFO com.makemytrip.utilities.Log - Pass: continue button is clickable
+2020-01-21 18:51:31,850 [main] INFO com.makemytrip.utilities.Log - Pass: continue button :is clicked
+2020-01-21 18:51:31,870 [main] INFO com.makemytrip.utilities.Log - Clicking oncontinue button
+2020-01-21 18:51:31,870 [main] INFO com.makemytrip.utilities.Log - waiting for continue button to be clickable
+2020-01-21 18:51:31,926 [main] INFO com.makemytrip.utilities.Log - Pass: continue button is clickable
+2020-01-21 18:51:32,104 [main] INFO com.makemytrip.utilities.Log - Pass: continue button :is clicked
+2020-01-21 18:51:32,127 [main] INFO com.makemytrip.utilities.Log - waiting for Continue button to become invisible
+2020-01-21 18:51:40,568 [main] INFO com.makemytrip.utilities.Log - Pass:Continue button is invisible
+2020-01-21 18:51:40,593 [main] INFO com.makemytrip.utilities.Log - Setting text
+2020-01-21 18:51:40,593 [main] INFO com.makemytrip.utilities.Log - waiting for password to display
+2020-01-21 18:51:40,616 [main] INFO com.makemytrip.utilities.Log - Pass: password is displayed
+2020-01-21 18:51:40,996 [main] INFO com.makemytrip.utilities.Log - Pass:divinity@22 is entered in password text box
+2020-01-21 18:51:41,019 [main] INFO com.makemytrip.utilities.Log - Clicking using JS on: Login button
+2020-01-21 18:51:41,019 [main] INFO com.makemytrip.utilities.Log - waiting for Login button to be clickable
+2020-01-21 18:51:41,070 [main] INFO com.makemytrip.utilities.Log - Pass: Login button is clickable
+2020-01-21 18:51:41,218 [main] INFO com.makemytrip.utilities.Log - Pass: Login button :is clicked
+2020-01-21 18:51:41,247 [main] INFO com.makemytrip.utilities.Log - waiting for password text box to become invisible
+2020-01-21 18:51:50,531 [main] INFO com.makemytrip.utilities.Log - Pass:password text box is invisible
+2020-01-21 18:51:50,569 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 18:51:50,634 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:Hey rahul
+2020-01-21 18:51:50,643 [main] INFO com.makemytrip.utilities.Log - Verifying whether child text is present in parent text
+2020-01-21 18:51:50,643 [main] INFO com.makemytrip.utilities.Log - Pass:child:HeyParent:Hey rahul
+2020-01-21 18:52:01,402 [main] INFO com.makemytrip.utilities.Log - Chrome Browser has Launched
+2020-01-21 18:52:05,531 [main] INFO com.makemytrip.utilities.Log - Navigating to URL>https://www.makemytrip.com/
+2020-01-21 18:52:08,895 [main] INFO com.makemytrip.utilities.Log - Pass:Navigated to URL>https://www.makemytrip.com/
+2020-01-21 18:52:08,943 [main] INFO com.makemytrip.utilities.Log - Clicking using JS on: Round trip radio button
+2020-01-21 18:52:08,943 [main] INFO com.makemytrip.utilities.Log - waiting for Round trip radio button to be clickable
+2020-01-21 18:52:09,077 [main] INFO com.makemytrip.utilities.Log - Pass: Round trip radio button is clickable
+2020-01-21 18:52:09,806 [main] INFO com.makemytrip.utilities.Log - Pass: Round trip radio button :is clicked
+2020-01-21 18:52:10,016 [main] INFO com.makemytrip.utilities.Log - Clicking using JS on: Student fare button
+2020-01-21 18:52:10,017 [main] INFO com.makemytrip.utilities.Log - waiting for Student fare button to be clickable
+2020-01-21 18:52:10,126 [main] INFO com.makemytrip.utilities.Log - Pass: Student fare button is clickable
+2020-01-21 18:52:10,371 [main] INFO com.makemytrip.utilities.Log - Pass: Student fare button :is clicked
+2020-01-21 18:52:10,413 [main] INFO com.makemytrip.utilities.Log - Clicking using JS on: Search button
+2020-01-21 18:52:10,414 [main] INFO com.makemytrip.utilities.Log - waiting for Search button to be clickable
+2020-01-21 18:52:10,461 [main] INFO com.makemytrip.utilities.Log - Pass: Search button is clickable
+2020-01-21 18:52:10,596 [main] INFO com.makemytrip.utilities.Log - Pass: Search button :is clicked
+2020-01-21 18:52:10,605 [main] INFO com.makemytrip.utilities.Log - Waiting for borwser to load
+2020-01-21 18:52:16,688 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 18:52:16,711 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:Go Air |G8-124
+2020-01-21 18:52:16,729 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 18:52:16,753 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:? 6,746
+2020-01-21 18:52:16,768 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 18:52:16,884 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:Go Air |G8-113
+2020-01-21 18:52:16,971 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 18:52:17,089 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:? 6,746
+2020-01-21 18:52:17,213 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 18:52:17,258 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:Go Air |G8-557
+2020-01-21 18:52:17,278 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 18:52:17,298 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:? 6,746
+2020-01-21 18:52:17,318 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 18:52:17,383 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:Go Air |G8-286
+2020-01-21 18:52:17,398 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 18:52:17,598 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:? 15,883
+2020-01-21 20:25:06,218 [main] INFO com.makemytrip.utilities.Log - Chrome Browser has Launched
+2020-01-21 20:25:10,400 [main] INFO com.makemytrip.utilities.Log - Navigating to URL>https://www.makemytrip.com/
+2020-01-21 20:25:18,644 [main] INFO com.makemytrip.utilities.Log - Pass:Navigated to URL>https://www.makemytrip.com/
+2020-01-21 20:25:24,486 [main] INFO com.makemytrip.utilities.Log - Chrome Browser has Launched
+2020-01-21 20:25:28,624 [main] INFO com.makemytrip.utilities.Log - Navigating to URL>https://www.makemytrip.com/
+2020-01-21 20:25:34,688 [main] INFO com.makemytrip.utilities.Log - Pass:Navigated to URL>https://www.makemytrip.com/
+2020-01-21 20:25:34,699 [main] INFO com.makemytrip.utilities.Log - $$$$$$$$$$$$$$$$$$$$$                 LoginTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-01-21 20:25:34,738 [main] INFO com.makemytrip.utilities.Log - Clicking using JS on: Login or create account link
+2020-01-21 20:25:34,739 [main] INFO com.makemytrip.utilities.Log - waiting for Login or create account link to be clickable
+2020-01-21 20:25:34,902 [main] INFO com.makemytrip.utilities.Log - Pass: Login or create account link is clickable
+2020-01-21 20:25:35,095 [main] INFO com.makemytrip.utilities.Log - Pass: Login or create account link :is clicked
+2020-01-21 20:25:35,161 [main] INFO com.makemytrip.utilities.Log - Setting text
+2020-01-21 20:25:35,161 [main] INFO com.makemytrip.utilities.Log - waiting for username to display
+2020-01-21 20:25:35,201 [main] INFO com.makemytrip.utilities.Log - Pass: username is displayed
+2020-01-21 20:25:36,764 [main] INFO com.makemytrip.utilities.Log - Pass:shubhanshum22@gmail.com is entered in username text box
+2020-01-21 20:25:36,853 [main] INFO com.makemytrip.utilities.Log - Clicking oncontinue button
+2020-01-21 20:25:36,855 [main] INFO com.makemytrip.utilities.Log - waiting for continue button to be clickable
+2020-01-21 20:25:36,897 [main] INFO com.makemytrip.utilities.Log - Pass: continue button is clickable
+2020-01-21 20:25:37,062 [main] INFO com.makemytrip.utilities.Log - Pass: continue button :is clicked
+2020-01-21 20:25:37,074 [main] INFO com.makemytrip.utilities.Log - Clicking oncontinue button
+2020-01-21 20:25:37,075 [main] INFO com.makemytrip.utilities.Log - waiting for continue button to be clickable
+2020-01-21 20:25:37,161 [main] INFO com.makemytrip.utilities.Log - Pass: continue button is clickable
+2020-01-21 20:25:37,281 [main] INFO com.makemytrip.utilities.Log - Pass: continue button :is clicked
+2020-01-21 20:25:37,363 [main] INFO com.makemytrip.utilities.Log - waiting for Continue button to become invisible
+2020-01-21 20:25:46,974 [main] INFO com.makemytrip.utilities.Log - Pass:Continue button is invisible
+2020-01-21 20:25:46,996 [main] INFO com.makemytrip.utilities.Log - Setting text
+2020-01-21 20:25:46,997 [main] INFO com.makemytrip.utilities.Log - waiting for password to display
+2020-01-21 20:25:47,025 [main] INFO com.makemytrip.utilities.Log - Pass: password is displayed
+2020-01-21 20:25:47,250 [main] INFO com.makemytrip.utilities.Log - Pass:divinity@22 is entered in password text box
+2020-01-21 20:25:47,269 [main] INFO com.makemytrip.utilities.Log - Clicking using JS on: Login button
+2020-01-21 20:25:47,269 [main] INFO com.makemytrip.utilities.Log - waiting for Login button to be clickable
+2020-01-21 20:25:47,306 [main] INFO com.makemytrip.utilities.Log - Pass: Login button is clickable
+2020-01-21 20:25:47,406 [main] INFO com.makemytrip.utilities.Log - Pass: Login button :is clicked
+2020-01-21 20:25:47,421 [main] INFO com.makemytrip.utilities.Log - waiting for password text box to become invisible
+2020-01-21 20:25:59,785 [main] INFO com.makemytrip.utilities.Log - Pass:password text box is invisible
+2020-01-21 20:25:59,817 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 20:25:59,840 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:Hey rahul
+2020-01-21 20:25:59,849 [main] INFO com.makemytrip.utilities.Log - Verifying whether child text is present in parent text
+2020-01-21 20:25:59,850 [main] INFO com.makemytrip.utilities.Log - Pass:child:HeyParent:Hey rahul
+2020-01-21 20:26:10,364 [main] INFO com.makemytrip.utilities.Log - Chrome Browser has Launched
+2020-01-21 20:26:14,515 [main] INFO com.makemytrip.utilities.Log - Navigating to URL>https://www.makemytrip.com/
+2020-01-21 20:26:21,284 [main] INFO com.makemytrip.utilities.Log - Pass:Navigated to URL>https://www.makemytrip.com/
+2020-01-21 20:26:21,308 [main] INFO com.makemytrip.utilities.Log - Clicking using JS on: Round trip radio button
+2020-01-21 20:26:21,309 [main] INFO com.makemytrip.utilities.Log - waiting for Round trip radio button to be clickable
+2020-01-21 20:26:21,364 [main] INFO com.makemytrip.utilities.Log - Pass: Round trip radio button is clickable
+2020-01-21 20:26:21,496 [main] INFO com.makemytrip.utilities.Log - Pass: Round trip radio button :is clicked
+2020-01-21 20:26:21,518 [main] INFO com.makemytrip.utilities.Log - Clicking using JS on: Student fare button
+2020-01-21 20:26:21,518 [main] INFO com.makemytrip.utilities.Log - waiting for Student fare button to be clickable
+2020-01-21 20:26:21,566 [main] INFO com.makemytrip.utilities.Log - Pass: Student fare button is clickable
+2020-01-21 20:26:21,673 [main] INFO com.makemytrip.utilities.Log - Pass: Student fare button :is clicked
+2020-01-21 20:26:21,706 [main] INFO com.makemytrip.utilities.Log - Clicking using JS on: Search button
+2020-01-21 20:26:21,707 [main] INFO com.makemytrip.utilities.Log - waiting for Search button to be clickable
+2020-01-21 20:26:21,768 [main] INFO com.makemytrip.utilities.Log - Pass: Search button is clickable
+2020-01-21 20:26:21,907 [main] INFO com.makemytrip.utilities.Log - Pass: Search button :is clicked
+2020-01-21 20:26:21,916 [main] INFO com.makemytrip.utilities.Log - Waiting for borwser to load
+2020-01-21 20:26:44,374 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 20:26:44,397 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:Go Air |G8-124
+2020-01-21 20:26:44,432 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 20:26:44,455 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:? 6,746
+2020-01-21 20:26:44,470 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 20:26:44,505 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:Go Air |G8-113
+2020-01-21 20:26:44,531 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 20:26:44,551 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:? 6,746
+2020-01-21 20:26:44,568 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 20:26:44,598 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:Go Air |G8-557
+2020-01-21 20:26:44,617 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 20:26:44,656 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:? 6,746
+2020-01-21 20:26:44,678 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 20:26:44,701 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:Go Air |G8-286
+2020-01-21 20:26:44,714 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 20:26:44,740 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:? 15,883
+2020-01-21 20:29:59,133 [main] INFO com.makemytrip.utilities.Log - Chrome Browser has Launched
+2020-01-21 20:30:03,283 [main] INFO com.makemytrip.utilities.Log - Navigating to URL>https://www.makemytrip.com/
+2020-01-21 20:30:06,639 [main] INFO com.makemytrip.utilities.Log - Pass:Navigated to URL>https://www.makemytrip.com/
+2020-01-21 20:31:09,994 [main] INFO com.makemytrip.utilities.Log - Chrome Browser has Launched
+2020-01-21 20:31:14,134 [main] INFO com.makemytrip.utilities.Log - Navigating to URL>https://www.makemytrip.com/
+2020-01-21 20:31:17,846 [main] INFO com.makemytrip.utilities.Log - Pass:Navigated to URL>https://www.makemytrip.com/
+2020-01-21 21:08:10,675 [main] INFO com.makemytrip.utilities.Log - Chrome Browser has Launched
+2020-01-21 21:08:15,004 [main] INFO com.makemytrip.utilities.Log - Navigating to URL>null
+2020-01-21 21:08:15,006 [main] INFO com.makemytrip.utilities.Log - Fail:Could not navigate to URL>null
+2020-01-21 21:09:02,234 [main] INFO com.makemytrip.utilities.Log - Chrome Browser has Launched
+2020-01-21 21:09:06,388 [main] INFO com.makemytrip.utilities.Log - Navigating to URL>null
+2020-01-21 21:09:06,390 [main] INFO com.makemytrip.utilities.Log - Fail:Could not navigate to URL>null
+2020-01-21 21:09:12,290 [main] INFO com.makemytrip.utilities.Log - Chrome Browser has Launched
+2020-01-21 21:09:16,552 [main] INFO com.makemytrip.utilities.Log - Navigating to URL>null
+2020-01-21 21:09:16,553 [main] INFO com.makemytrip.utilities.Log - Fail:Could not navigate to URL>null
+2020-01-21 21:09:16,582 [main] INFO com.makemytrip.utilities.Log - $$$$$$$$$$$$$$$$$$$$$                 LoginTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-01-21 21:09:23,387 [main] INFO com.makemytrip.utilities.Log - Chrome Browser has Launched
+2020-01-21 21:09:27,548 [main] INFO com.makemytrip.utilities.Log - Navigating to URL>null
+2020-01-21 21:09:27,551 [main] INFO com.makemytrip.utilities.Log - Fail:Could not navigate to URL>null
+2020-01-21 21:13:30,826 [main] INFO com.makemytrip.utilities.Log - Chrome Browser has Launched
+2020-01-21 21:13:34,999 [main] INFO com.makemytrip.utilities.Log - Navigating to URL>https://www.makemytrip.com/
+2020-01-21 21:13:40,873 [main] INFO com.makemytrip.utilities.Log - Pass:Navigated to URL>https://www.makemytrip.com/
+2020-01-21 21:13:47,005 [main] INFO com.makemytrip.utilities.Log - Chrome Browser has Launched
+2020-01-21 21:13:51,179 [main] INFO com.makemytrip.utilities.Log - Navigating to URL>https://www.makemytrip.com/
+2020-01-21 21:13:57,333 [main] INFO com.makemytrip.utilities.Log - Pass:Navigated to URL>https://www.makemytrip.com/
+2020-01-21 21:13:57,345 [main] INFO com.makemytrip.utilities.Log - $$$$$$$$$$$$$$$$$$$$$                 LoginTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-01-21 21:13:57,405 [main] INFO com.makemytrip.utilities.Log - Clicking using JS on: Login or create account link
+2020-01-21 21:13:57,406 [main] INFO com.makemytrip.utilities.Log - waiting for Login or create account link to be clickable
+2020-01-21 21:13:57,564 [main] INFO com.makemytrip.utilities.Log - Pass: Login or create account link is clickable
+2020-01-21 21:13:57,879 [main] INFO com.makemytrip.utilities.Log - Pass: Login or create account link :is clicked
+2020-01-21 21:13:57,941 [main] INFO com.makemytrip.utilities.Log - Setting text
+2020-01-21 21:13:57,942 [main] INFO com.makemytrip.utilities.Log - waiting for username to display
+2020-01-21 21:13:57,982 [main] INFO com.makemytrip.utilities.Log - Pass: username is displayed
+2020-01-21 21:13:59,606 [main] INFO com.makemytrip.utilities.Log - Pass:shubhanshum22@gmail.com is entered in username text box
+2020-01-21 21:13:59,637 [main] INFO com.makemytrip.utilities.Log - Clicking oncontinue button
+2020-01-21 21:13:59,639 [main] INFO com.makemytrip.utilities.Log - waiting for continue button to be clickable
+2020-01-21 21:13:59,693 [main] INFO com.makemytrip.utilities.Log - Pass: continue button is clickable
+2020-01-21 21:13:59,936 [main] INFO com.makemytrip.utilities.Log - Pass: continue button :is clicked
+2020-01-21 21:13:59,954 [main] INFO com.makemytrip.utilities.Log - Clicking oncontinue button
+2020-01-21 21:13:59,954 [main] INFO com.makemytrip.utilities.Log - waiting for continue button to be clickable
+2020-01-21 21:13:59,998 [main] INFO com.makemytrip.utilities.Log - Pass: continue button is clickable
+2020-01-21 21:14:00,185 [main] INFO com.makemytrip.utilities.Log - Pass: continue button :is clicked
+2020-01-21 21:14:00,203 [main] INFO com.makemytrip.utilities.Log - waiting for Continue button to become invisible
+2020-01-21 21:14:10,155 [main] INFO com.makemytrip.utilities.Log - Pass:Continue button is invisible
+2020-01-21 21:14:10,181 [main] INFO com.makemytrip.utilities.Log - Setting text
+2020-01-21 21:14:10,182 [main] INFO com.makemytrip.utilities.Log - waiting for password to display
+2020-01-21 21:14:10,210 [main] INFO com.makemytrip.utilities.Log - Pass: password is displayed
+2020-01-21 21:14:10,482 [main] INFO com.makemytrip.utilities.Log - Pass:divinity@22 is entered in password text box
+2020-01-21 21:14:10,513 [main] INFO com.makemytrip.utilities.Log - Clicking using JS on: Login button
+2020-01-21 21:14:10,514 [main] INFO com.makemytrip.utilities.Log - waiting for Login button to be clickable
+2020-01-21 21:14:10,548 [main] INFO com.makemytrip.utilities.Log - Pass: Login button is clickable
+2020-01-21 21:14:10,663 [main] INFO com.makemytrip.utilities.Log - Pass: Login button :is clicked
+2020-01-21 21:14:10,675 [main] INFO com.makemytrip.utilities.Log - waiting for password text box to become invisible
+2020-01-21 21:14:23,080 [main] INFO com.makemytrip.utilities.Log - Pass:password text box is invisible
+2020-01-21 21:14:23,117 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 21:14:23,156 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:Hey rahul
+2020-01-21 21:14:23,164 [main] INFO com.makemytrip.utilities.Log - Verifying whether child text is present in parent text
+2020-01-21 21:14:23,165 [main] INFO com.makemytrip.utilities.Log - Pass:child:HeyParent:Hey rahul
+2020-01-21 21:14:33,727 [main] INFO com.makemytrip.utilities.Log - Chrome Browser has Launched
+2020-01-21 21:14:37,874 [main] INFO com.makemytrip.utilities.Log - Navigating to URL>https://www.makemytrip.com/
+2020-01-21 21:14:43,446 [main] INFO com.makemytrip.utilities.Log - Pass:Navigated to URL>https://www.makemytrip.com/
+2020-01-21 21:14:43,519 [main] INFO com.makemytrip.utilities.Log - Clicking using JS on: Round trip radio button
+2020-01-21 21:14:43,520 [main] INFO com.makemytrip.utilities.Log - waiting for Round trip radio button to be clickable
+2020-01-21 21:14:43,627 [main] INFO com.makemytrip.utilities.Log - Pass: Round trip radio button is clickable
+2020-01-21 21:14:43,707 [main] INFO com.makemytrip.utilities.Log - Pass: Round trip radio button :is clicked
+2020-01-21 21:14:43,734 [main] INFO com.makemytrip.utilities.Log - Clicking using JS on: Student fare button
+2020-01-21 21:14:43,734 [main] INFO com.makemytrip.utilities.Log - waiting for Student fare button to be clickable
+2020-01-21 21:14:43,791 [main] INFO com.makemytrip.utilities.Log - Pass: Student fare button is clickable
+2020-01-21 21:14:43,813 [main] INFO com.makemytrip.utilities.Log - Pass: Student fare button :is clicked
+2020-01-21 21:14:43,841 [main] INFO com.makemytrip.utilities.Log - Clicking using JS on: Search button
+2020-01-21 21:14:43,843 [main] INFO com.makemytrip.utilities.Log - waiting for Search button to be clickable
+2020-01-21 21:14:43,893 [main] INFO com.makemytrip.utilities.Log - Pass: Search button is clickable
+2020-01-21 21:14:43,944 [main] INFO com.makemytrip.utilities.Log - Pass: Search button :is clicked
+2020-01-21 21:14:43,953 [main] INFO com.makemytrip.utilities.Log - Waiting for borwser to load
+2020-01-21 21:15:06,870 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 21:15:06,912 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:Go Air |G8-124
+2020-01-21 21:15:06,935 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 21:15:06,979 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:? 6,746
+2020-01-21 21:15:06,998 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 21:15:07,027 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:Go Air |G8-113
+2020-01-21 21:15:07,046 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 21:15:07,067 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:? 6,746
+2020-01-21 21:15:07,082 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 21:15:07,113 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:Go Air |G8-557
+2020-01-21 21:15:07,129 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 21:15:07,150 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:? 6,746
+2020-01-21 21:15:07,168 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 21:15:07,201 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:Go Air |G8-286
+2020-01-21 21:15:07,218 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 21:15:07,260 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:? 13,004
+2020-01-21 21:18:19,430 [main] INFO com.makemytrip.utilities.Log - Chrome Browser has Launched
+2020-01-21 21:18:23,600 [main] INFO com.makemytrip.utilities.Log - Navigating to URL>https://www.makemytrip.com/
+2020-01-21 21:18:44,880 [main] INFO com.makemytrip.utilities.Log - Pass:Navigated to URL>https://www.makemytrip.com/
+2020-01-21 21:18:50,771 [main] INFO com.makemytrip.utilities.Log - Chrome Browser has Launched
+2020-01-21 21:18:54,944 [main] INFO com.makemytrip.utilities.Log - Navigating to URL>https://www.makemytrip.com/
+2020-01-21 21:19:08,023 [main] INFO com.makemytrip.utilities.Log - Pass:Navigated to URL>https://www.makemytrip.com/
+2020-01-21 21:19:08,035 [main] INFO com.makemytrip.utilities.Log - $$$$$$$$$$$$$$$$$$$$$                 LoginTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-01-21 21:19:08,096 [main] INFO com.makemytrip.utilities.Log - Clicking using JS on: Login or create account link
+2020-01-21 21:19:08,097 [main] INFO com.makemytrip.utilities.Log - waiting for Login or create account link to be clickable
+2020-01-21 21:19:08,276 [main] INFO com.makemytrip.utilities.Log - Pass: Login or create account link is clickable
+2020-01-21 21:19:08,504 [main] INFO com.makemytrip.utilities.Log - Pass: Login or create account link :is clicked
+2020-01-21 21:19:08,552 [main] INFO com.makemytrip.utilities.Log - Setting text
+2020-01-21 21:19:08,553 [main] INFO com.makemytrip.utilities.Log - waiting for username to display
+2020-01-21 21:19:08,606 [main] INFO com.makemytrip.utilities.Log - Pass: username is displayed
+2020-01-21 21:19:09,834 [main] INFO com.makemytrip.utilities.Log - Pass:shubhanshum22@gmail.com is entered in username text box
+2020-01-21 21:19:09,855 [main] INFO com.makemytrip.utilities.Log - Clicking oncontinue button
+2020-01-21 21:19:09,856 [main] INFO com.makemytrip.utilities.Log - waiting for continue button to be clickable
+2020-01-21 21:19:09,892 [main] INFO com.makemytrip.utilities.Log - Pass: continue button is clickable
+2020-01-21 21:19:10,041 [main] INFO com.makemytrip.utilities.Log - Pass: continue button :is clicked
+2020-01-21 21:19:10,059 [main] INFO com.makemytrip.utilities.Log - Clicking oncontinue button
+2020-01-21 21:19:10,059 [main] INFO com.makemytrip.utilities.Log - waiting for continue button to be clickable
+2020-01-21 21:19:10,107 [main] INFO com.makemytrip.utilities.Log - Pass: continue button is clickable
+2020-01-21 21:19:10,270 [main] INFO com.makemytrip.utilities.Log - Pass: continue button :is clicked
+2020-01-21 21:19:10,284 [main] INFO com.makemytrip.utilities.Log - waiting for Continue button to become invisible
+2020-01-21 21:19:19,594 [main] INFO com.makemytrip.utilities.Log - Pass:Continue button is invisible
+2020-01-21 21:19:19,618 [main] INFO com.makemytrip.utilities.Log - Setting text
+2020-01-21 21:19:19,618 [main] INFO com.makemytrip.utilities.Log - waiting for password to display
+2020-01-21 21:19:19,642 [main] INFO com.makemytrip.utilities.Log - Pass: password is displayed
+2020-01-21 21:19:19,926 [main] INFO com.makemytrip.utilities.Log - Pass:divinity@22 is entered in password text box
+2020-01-21 21:19:19,944 [main] INFO com.makemytrip.utilities.Log - Clicking using JS on: Login button
+2020-01-21 21:19:19,945 [main] INFO com.makemytrip.utilities.Log - waiting for Login button to be clickable
+2020-01-21 21:19:19,983 [main] INFO com.makemytrip.utilities.Log - Pass: Login button is clickable
+2020-01-21 21:19:20,104 [main] INFO com.makemytrip.utilities.Log - Pass: Login button :is clicked
+2020-01-21 21:19:20,120 [main] INFO com.makemytrip.utilities.Log - waiting for password text box to become invisible
+2020-01-21 21:19:32,314 [main] INFO com.makemytrip.utilities.Log - Pass:password text box is invisible
+2020-01-21 21:19:32,406 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 21:19:32,473 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:Hey rahul
+2020-01-21 21:19:32,482 [main] INFO com.makemytrip.utilities.Log - Verifying whether child text is present in parent text
+2020-01-21 21:19:32,483 [main] INFO com.makemytrip.utilities.Log - Pass:child:HeyParent:Hey rahul
+2020-01-21 21:19:42,851 [main] INFO com.makemytrip.utilities.Log - Chrome Browser has Launched
+2020-01-21 21:19:47,000 [main] INFO com.makemytrip.utilities.Log - Navigating to URL>https://www.makemytrip.com/
+2020-01-21 21:19:59,490 [main] INFO com.makemytrip.utilities.Log - Pass:Navigated to URL>https://www.makemytrip.com/
+2020-01-21 21:19:59,518 [main] INFO com.makemytrip.utilities.Log - Clicking using JS on: Round trip radio button
+2020-01-21 21:19:59,519 [main] INFO com.makemytrip.utilities.Log - waiting for Round trip radio button to be clickable
+2020-01-21 21:19:59,568 [main] INFO com.makemytrip.utilities.Log - Pass: Round trip radio button is clickable
+2020-01-21 21:19:59,602 [main] INFO com.makemytrip.utilities.Log - Pass: Round trip radio button :is clicked
+2020-01-21 21:19:59,622 [main] INFO com.makemytrip.utilities.Log - Clicking using JS on: Student fare button
+2020-01-21 21:19:59,623 [main] INFO com.makemytrip.utilities.Log - waiting for Student fare button to be clickable
+2020-01-21 21:19:59,673 [main] INFO com.makemytrip.utilities.Log - Pass: Student fare button is clickable
+2020-01-21 21:19:59,693 [main] INFO com.makemytrip.utilities.Log - Pass: Student fare button :is clicked
+2020-01-21 21:19:59,719 [main] INFO com.makemytrip.utilities.Log - Clicking using JS on: Search button
+2020-01-21 21:19:59,719 [main] INFO com.makemytrip.utilities.Log - waiting for Search button to be clickable
+2020-01-21 21:19:59,803 [main] INFO com.makemytrip.utilities.Log - Pass: Search button is clickable
+2020-01-21 21:19:59,834 [main] INFO com.makemytrip.utilities.Log - Pass: Search button :is clicked
+2020-01-21 21:19:59,842 [main] INFO com.makemytrip.utilities.Log - Waiting for borwser to load
+2020-01-21 21:22:53,839 [main] INFO com.makemytrip.utilities.Log - Chrome Browser has Launched
+2020-01-21 21:22:57,989 [main] INFO com.makemytrip.utilities.Log - Navigating to URL>https://www.makemytrip.com/
+2020-01-21 21:23:08,372 [main] INFO com.makemytrip.utilities.Log - Pass:Navigated to URL>https://www.makemytrip.com/
+2020-01-21 21:23:14,289 [main] INFO com.makemytrip.utilities.Log - Chrome Browser has Launched
+2020-01-21 21:23:18,430 [main] INFO com.makemytrip.utilities.Log - Navigating to URL>https://www.makemytrip.com/
+2020-01-21 21:23:29,879 [main] INFO com.makemytrip.utilities.Log - Pass:Navigated to URL>https://www.makemytrip.com/
+2020-01-21 21:23:29,893 [main] INFO com.makemytrip.utilities.Log - $$$$$$$$$$$$$$$$$$$$$                 LoginTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-01-21 21:23:29,932 [main] INFO com.makemytrip.utilities.Log - Clicking using JS on: Login or create account link
+2020-01-21 21:23:29,932 [main] INFO com.makemytrip.utilities.Log - waiting for Login or create account link to be clickable
+2020-01-21 21:23:30,055 [main] INFO com.makemytrip.utilities.Log - Pass: Login or create account link is clickable
+2020-01-21 21:23:30,281 [main] INFO com.makemytrip.utilities.Log - Pass: Login or create account link :is clicked
+2020-01-21 21:23:30,324 [main] INFO com.makemytrip.utilities.Log - Setting text
+2020-01-21 21:23:30,325 [main] INFO com.makemytrip.utilities.Log - waiting for username to display
+2020-01-21 21:23:30,362 [main] INFO com.makemytrip.utilities.Log - Pass: username is displayed
+2020-01-21 21:23:31,244 [main] INFO com.makemytrip.utilities.Log - Pass:shubhanshum22@gmail.com is entered in username text box
+2020-01-21 21:23:31,300 [main] INFO com.makemytrip.utilities.Log - Clicking oncontinue button
+2020-01-21 21:23:31,302 [main] INFO com.makemytrip.utilities.Log - waiting for continue button to be clickable
+2020-01-21 21:23:31,368 [main] INFO com.makemytrip.utilities.Log - Pass: continue button is clickable
+2020-01-21 21:23:31,583 [main] INFO com.makemytrip.utilities.Log - Pass: continue button :is clicked
+2020-01-21 21:23:31,603 [main] INFO com.makemytrip.utilities.Log - Clicking oncontinue button
+2020-01-21 21:23:31,603 [main] INFO com.makemytrip.utilities.Log - waiting for continue button to be clickable
+2020-01-21 21:23:31,649 [main] INFO com.makemytrip.utilities.Log - Pass: continue button is clickable
+2020-01-21 21:23:31,823 [main] INFO com.makemytrip.utilities.Log - Pass: continue button :is clicked
+2020-01-21 21:23:45,548 [main] INFO com.makemytrip.utilities.Log - Pass:Mail Sent
+2020-01-21 21:24:12,082 [main] INFO com.makemytrip.utilities.Log - Chrome Browser has Launched
+2020-01-21 21:24:14,229 [main] INFO com.makemytrip.utilities.Log - Navigating to URL>https://www.makemytrip.com/
+2020-01-21 21:24:26,419 [main] INFO com.makemytrip.utilities.Log - Pass:Navigated to URL>https://www.makemytrip.com/
+2020-01-21 21:24:33,032 [main] INFO com.makemytrip.utilities.Log - Chrome Browser has Launched
+2020-01-21 21:24:37,171 [main] INFO com.makemytrip.utilities.Log - Navigating to URL>https://www.makemytrip.com/
+2020-01-21 21:24:44,478 [main] INFO com.makemytrip.utilities.Log - Pass:Navigated to URL>https://www.makemytrip.com/
+2020-01-21 21:24:44,487 [main] INFO com.makemytrip.utilities.Log - $$$$$$$$$$$$$$$$$$$$$                 LoginTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-01-21 21:24:44,528 [main] INFO com.makemytrip.utilities.Log - Clicking using JS on: Login or create account link
+2020-01-21 21:24:44,529 [main] INFO com.makemytrip.utilities.Log - waiting for Login or create account link to be clickable
+2020-01-21 21:24:44,666 [main] INFO com.makemytrip.utilities.Log - Pass: Login or create account link is clickable
+2020-01-21 21:24:44,838 [main] INFO com.makemytrip.utilities.Log - Pass: Login or create account link :is clicked
+2020-01-21 21:24:44,879 [main] INFO com.makemytrip.utilities.Log - Setting text
+2020-01-21 21:24:44,880 [main] INFO com.makemytrip.utilities.Log - waiting for username to display
+2020-01-21 21:24:44,929 [main] INFO com.makemytrip.utilities.Log - Pass: username is displayed
+2020-01-21 21:24:46,219 [main] INFO com.makemytrip.utilities.Log - Pass:shubhanshum22@gmail.com is entered in username text box
+2020-01-21 21:24:46,257 [main] INFO com.makemytrip.utilities.Log - Clicking oncontinue button
+2020-01-21 21:24:46,258 [main] INFO com.makemytrip.utilities.Log - waiting for continue button to be clickable
+2020-01-21 21:24:46,319 [main] INFO com.makemytrip.utilities.Log - Pass: continue button is clickable
+2020-01-21 21:24:47,151 [main] INFO com.makemytrip.utilities.Log - Pass: continue button :is clicked
+2020-01-21 21:24:47,185 [main] INFO com.makemytrip.utilities.Log - Clicking oncontinue button
+2020-01-21 21:24:47,186 [main] INFO com.makemytrip.utilities.Log - waiting for continue button to be clickable
+2020-01-21 21:24:47,908 [main] INFO com.makemytrip.utilities.Log - Pass: continue button is clickable
+2020-01-21 21:24:48,130 [main] INFO com.makemytrip.utilities.Log - Pass: continue button :is clicked
+2020-01-21 21:24:48,257 [main] INFO com.makemytrip.utilities.Log - waiting for Continue button to become invisible
+2020-01-21 21:24:58,239 [main] INFO com.makemytrip.utilities.Log - Pass:Continue button is invisible
+2020-01-21 21:24:58,262 [main] INFO com.makemytrip.utilities.Log - Setting text
+2020-01-21 21:24:58,262 [main] INFO com.makemytrip.utilities.Log - waiting for password to display
+2020-01-21 21:24:58,291 [main] INFO com.makemytrip.utilities.Log - Pass: password is displayed
+2020-01-21 21:24:58,530 [main] INFO com.makemytrip.utilities.Log - Pass:divinity@22 is entered in password text box
+2020-01-21 21:24:58,549 [main] INFO com.makemytrip.utilities.Log - Clicking using JS on: Login button
+2020-01-21 21:24:58,549 [main] INFO com.makemytrip.utilities.Log - waiting for Login button to be clickable
+2020-01-21 21:24:58,589 [main] INFO com.makemytrip.utilities.Log - Pass: Login button is clickable
+2020-01-21 21:24:58,695 [main] INFO com.makemytrip.utilities.Log - Pass: Login button :is clicked
+2020-01-21 21:24:58,714 [main] INFO com.makemytrip.utilities.Log - waiting for password text box to become invisible
+2020-01-21 21:25:08,743 [main] INFO com.makemytrip.utilities.Log - Pass:password text box is invisible
+2020-01-21 21:25:08,776 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 21:25:08,796 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:Hey rahul
+2020-01-21 21:25:08,806 [main] INFO com.makemytrip.utilities.Log - Verifying whether child text is present in parent text
+2020-01-21 21:25:08,807 [main] INFO com.makemytrip.utilities.Log - Pass:child:HeyParent:Hey rahul
+2020-01-21 21:25:19,713 [main] INFO com.makemytrip.utilities.Log - Pass:Mail Sent
+2020-01-21 21:37:47,064 [main] INFO com.makemytrip.utilities.Log - Chrome Browser has Launched
+2020-01-21 21:37:51,203 [main] INFO com.makemytrip.utilities.Log - Navigating to URL>https://www.makemytrip.com/
+2020-01-21 21:38:02,234 [main] INFO com.makemytrip.utilities.Log - Pass:Navigated to URL>https://www.makemytrip.com/
+2020-01-21 21:38:08,409 [main] INFO com.makemytrip.utilities.Log - Chrome Browser has Launched
+2020-01-21 21:38:12,546 [main] INFO com.makemytrip.utilities.Log - Navigating to URL>https://www.makemytrip.com/
+2020-01-21 21:38:24,322 [main] INFO com.makemytrip.utilities.Log - Pass:Navigated to URL>https://www.makemytrip.com/
+2020-01-21 21:38:24,331 [main] INFO com.makemytrip.utilities.Log - $$$$$$$$$$$$$$$$$$$$$                 LoginTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-01-21 21:38:24,372 [main] INFO com.makemytrip.utilities.Log - Clicking using JS on: Login or create account link
+2020-01-21 21:38:24,372 [main] INFO com.makemytrip.utilities.Log - waiting for Login or create account link to be clickable
+2020-01-21 21:38:24,496 [main] INFO com.makemytrip.utilities.Log - Pass: Login or create account link is clickable
+2020-01-21 21:38:24,624 [main] INFO com.makemytrip.utilities.Log - Pass: Login or create account link :is clicked
+2020-01-21 21:38:24,669 [main] INFO com.makemytrip.utilities.Log - Setting text
+2020-01-21 21:38:24,670 [main] INFO com.makemytrip.utilities.Log - waiting for username to display
+2020-01-21 21:38:24,741 [main] INFO com.makemytrip.utilities.Log - Pass: username is displayed
+2020-01-21 21:38:25,494 [main] INFO com.makemytrip.utilities.Log - Pass:shubhanshum22@gmail.com is entered in username text box
+2020-01-21 21:38:25,518 [main] INFO com.makemytrip.utilities.Log - Clicking oncontinue button
+2020-01-21 21:38:25,520 [main] INFO com.makemytrip.utilities.Log - waiting for continue button to be clickable
+2020-01-21 21:38:25,568 [main] INFO com.makemytrip.utilities.Log - Pass: continue button is clickable
+2020-01-21 21:38:25,677 [main] INFO com.makemytrip.utilities.Log - Pass: continue button :is clicked
+2020-01-21 21:38:25,698 [main] INFO com.makemytrip.utilities.Log - Clicking oncontinue button
+2020-01-21 21:38:25,698 [main] INFO com.makemytrip.utilities.Log - waiting for continue button to be clickable
+2020-01-21 21:38:25,740 [main] INFO com.makemytrip.utilities.Log - Pass: continue button is clickable
+2020-01-21 21:38:25,874 [main] INFO com.makemytrip.utilities.Log - Pass: continue button :is clicked
+2020-01-21 21:38:25,901 [main] INFO com.makemytrip.utilities.Log - waiting for Continue button to become invisible
+2020-01-21 21:38:26,696 [main] INFO com.makemytrip.utilities.Log - Pass:Continue button is invisible
+2020-01-21 21:38:26,743 [main] INFO com.makemytrip.utilities.Log - Setting text
+2020-01-21 21:38:26,743 [main] INFO com.makemytrip.utilities.Log - waiting for password to display
+2020-01-21 21:38:26,781 [main] INFO com.makemytrip.utilities.Log - Pass: password is displayed
+2020-01-21 21:38:27,156 [main] INFO com.makemytrip.utilities.Log - Pass:divinity@22 is entered in password text box
+2020-01-21 21:38:27,186 [main] INFO com.makemytrip.utilities.Log - Clicking using JS on: Login button
+2020-01-21 21:38:27,187 [main] INFO com.makemytrip.utilities.Log - waiting for Login button to be clickable
+2020-01-21 21:38:27,230 [main] INFO com.makemytrip.utilities.Log - Pass: Login button is clickable
+2020-01-21 21:38:27,273 [main] INFO com.makemytrip.utilities.Log - Pass: Login button :is clicked
+2020-01-21 21:38:27,292 [main] INFO com.makemytrip.utilities.Log - waiting for password text box to become invisible
+2020-01-21 21:38:38,518 [main] INFO com.makemytrip.utilities.Log - Pass:password text box is invisible
+2020-01-21 21:38:38,547 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 21:38:38,571 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:Hey rahul
+2020-01-21 21:38:38,581 [main] INFO com.makemytrip.utilities.Log - Verifying whether child text is present in parent text
+2020-01-21 21:38:38,582 [main] INFO com.makemytrip.utilities.Log - Pass:child:HeyParent:Hey rahul
+2020-01-21 21:38:49,273 [main] INFO com.makemytrip.utilities.Log - Chrome Browser has Launched
+2020-01-21 21:38:53,437 [main] INFO com.makemytrip.utilities.Log - Navigating to URL>https://www.makemytrip.com/
+2020-01-21 21:39:04,571 [main] INFO com.makemytrip.utilities.Log - Pass:Navigated to URL>https://www.makemytrip.com/
+2020-01-21 21:39:04,573 [main] INFO com.makemytrip.utilities.Log - $$$$$$$$$$$$$$$$$$$$$                 SearchHotelTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-01-21 21:39:04,599 [main] INFO com.makemytrip.utilities.Log - Clicking using JS on: Hotel link
+2020-01-21 21:39:04,599 [main] INFO com.makemytrip.utilities.Log - waiting for Hotel link to be clickable
+2020-01-21 21:39:04,659 [main] INFO com.makemytrip.utilities.Log - Pass: Hotel link is clickable
+2020-01-21 21:39:04,814 [main] INFO com.makemytrip.utilities.Log - Pass: Hotel link :is clicked
+2020-01-21 21:39:04,815 [main] INFO com.makemytrip.utilities.Log - Verifying URL
+2020-01-21 21:39:04,823 [main] INFO com.makemytrip.utilities.Log - Pass: Act Url:https://www.makemytrip.com/hotels/ Exp Url:https://www.makemytrip.com/hotels/
+2020-01-21 21:39:06,974 [main] INFO com.makemytrip.utilities.Log - Clicking oncity button
+2020-01-21 21:39:06,974 [main] INFO com.makemytrip.utilities.Log - waiting for city button to be clickable
+2020-01-21 21:39:07,022 [main] INFO com.makemytrip.utilities.Log - Pass: city button is clickable
+2020-01-21 21:39:07,246 [main] INFO com.makemytrip.utilities.Log - Pass: city button :is clicked
+2020-01-21 21:39:08,270 [main] INFO com.makemytrip.utilities.Log - Setting text
+2020-01-21 21:39:08,271 [main] INFO com.makemytrip.utilities.Log - waiting for Enter city to display
+2020-01-21 21:39:08,354 [main] INFO com.makemytrip.utilities.Log - Pass: Enter city is displayed
+2020-01-21 21:39:08,536 [main] INFO com.makemytrip.utilities.Log - Pass:Sikandarpur is entered in Enter city text box
+2020-01-21 21:39:11,585 [main] INFO com.makemytrip.utilities.Log - Clicking using JS on: Sikandarpur
+2020-01-21 21:39:11,585 [main] INFO com.makemytrip.utilities.Log - waiting for Sikandarpur to be clickable
+2020-01-21 21:39:11,627 [main] INFO com.makemytrip.utilities.Log - Pass: Sikandarpur is clickable
+2020-01-21 21:39:11,798 [main] INFO com.makemytrip.utilities.Log - Pass: Sikandarpur :is clicked
+2020-01-21 21:39:11,824 [main] INFO com.makemytrip.utilities.Log - Clicking using JS on: Search button
+2020-01-21 21:39:11,824 [main] INFO com.makemytrip.utilities.Log - waiting for Search button to be clickable
+2020-01-21 21:39:11,868 [main] INFO com.makemytrip.utilities.Log - Pass: Search button is clickable
+2020-01-21 21:39:46,326 [main] INFO com.makemytrip.utilities.Log - Pass: Search button :is clicked
+2020-01-21 21:39:46,432 [main] INFO com.makemytrip.utilities.Log - Verifying whether child text is present in parent text
+2020-01-21 21:39:46,432 [main] INFO com.makemytrip.utilities.Log - Pass:child:checkinParent:https://www.makemytrip.com/hotels/hotel-listing/?checkin=01222020&city=RGNCR&mmPoiTag=POI%7CSikandarpur%20Metro%20Station%7CPOI47866%7C%7C&checkout=01232020&roomStayQualifier=2e0e&locusId=RGNCR&country=IN&locusType=region&searchText=Sikandarpur%20Metro%20Station,%20Gurgaon&visitorId=211c5127-65a4-4a85-9e09-0b0511fb95fd&_uCurrency=INR
+2020-01-21 21:39:46,440 [main] INFO com.makemytrip.utilities.Log - Waiting for borwser to load
+2020-01-21 21:39:46,549 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 21:39:46,576 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:Hotel Aadhar
+2020-01-21 21:39:46,604 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 21:39:46,633 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:INR1,614
+2020-01-21 21:39:46,654 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 21:39:46,686 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:The Bristol Hotel
+2020-01-21 21:39:46,708 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 21:39:46,737 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:INR4,210
+2020-01-21 21:39:46,757 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 21:39:46,792 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:Hotel Smart Inn-3
+2020-01-21 21:39:46,813 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 21:39:46,843 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:INR1,332
+2020-01-21 21:39:46,859 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 21:39:46,889 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:Indiyaah Inn DLF Phase 2
+2020-01-21 21:39:46,905 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 21:39:46,935 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:INR3,000
+2020-01-21 21:39:46,985 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 21:39:47,009 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:Silver Oak @56A
+2020-01-21 21:39:47,024 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 21:39:47,052 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:INR2,452
+2020-01-21 21:39:57,061 [main] INFO com.makemytrip.utilities.Log - Chrome Browser has Launched
+2020-01-21 21:40:01,195 [main] INFO com.makemytrip.utilities.Log - Navigating to URL>https://www.makemytrip.com/
+2020-01-21 21:40:16,433 [main] INFO com.makemytrip.utilities.Log - Pass:Navigated to URL>https://www.makemytrip.com/
+2020-01-21 21:40:16,434 [main] INFO com.makemytrip.utilities.Log - $$$$$$$$$$$$$$$$$$$$$                 ChangeUnameTest       $$$$$$$$$$$$$$$$$$$$$$$$$
+2020-01-21 21:40:16,477 [main] INFO com.makemytrip.utilities.Log - Clicking using JS on: Login or create account link
+2020-01-21 21:40:16,478 [main] INFO com.makemytrip.utilities.Log - waiting for Login or create account link to be clickable
+2020-01-21 21:40:16,525 [main] INFO com.makemytrip.utilities.Log - Pass: Login or create account link is clickable
+2020-01-21 21:40:16,807 [main] INFO com.makemytrip.utilities.Log - Pass: Login or create account link :is clicked
+2020-01-21 21:40:16,918 [main] INFO com.makemytrip.utilities.Log - Setting text
+2020-01-21 21:40:16,918 [main] INFO com.makemytrip.utilities.Log - waiting for username to display
+2020-01-21 21:40:16,973 [main] INFO com.makemytrip.utilities.Log - Pass: username is displayed
+2020-01-21 21:40:18,242 [main] INFO com.makemytrip.utilities.Log - Pass:shubhanshum22@gmail.com is entered in username text box
+2020-01-21 21:40:18,269 [main] INFO com.makemytrip.utilities.Log - Clicking oncontinue button
+2020-01-21 21:40:18,270 [main] INFO com.makemytrip.utilities.Log - waiting for continue button to be clickable
+2020-01-21 21:40:18,304 [main] INFO com.makemytrip.utilities.Log - Pass: continue button is clickable
+2020-01-21 21:40:18,461 [main] INFO com.makemytrip.utilities.Log - Pass: continue button :is clicked
+2020-01-21 21:40:18,475 [main] INFO com.makemytrip.utilities.Log - Clicking oncontinue button
+2020-01-21 21:40:18,475 [main] INFO com.makemytrip.utilities.Log - waiting for continue button to be clickable
+2020-01-21 21:40:18,524 [main] INFO com.makemytrip.utilities.Log - Pass: continue button is clickable
+2020-01-21 21:40:18,652 [main] INFO com.makemytrip.utilities.Log - Pass: continue button :is clicked
+2020-01-21 21:40:18,668 [main] INFO com.makemytrip.utilities.Log - waiting for Continue button to become invisible
+2020-01-21 21:40:27,696 [main] INFO com.makemytrip.utilities.Log - Pass:Continue button is invisible
+2020-01-21 21:40:27,739 [main] INFO com.makemytrip.utilities.Log - Setting text
+2020-01-21 21:40:27,740 [main] INFO com.makemytrip.utilities.Log - waiting for password to display
+2020-01-21 21:40:27,759 [main] INFO com.makemytrip.utilities.Log - Pass: password is displayed
+2020-01-21 21:40:28,038 [main] INFO com.makemytrip.utilities.Log - Pass:divinity@22 is entered in password text box
+2020-01-21 21:40:28,057 [main] INFO com.makemytrip.utilities.Log - Clicking using JS on: Login button
+2020-01-21 21:40:28,058 [main] INFO com.makemytrip.utilities.Log - waiting for Login button to be clickable
+2020-01-21 21:40:28,092 [main] INFO com.makemytrip.utilities.Log - Pass: Login button is clickable
+2020-01-21 21:40:28,215 [main] INFO com.makemytrip.utilities.Log - Pass: Login button :is clicked
+2020-01-21 21:40:28,233 [main] INFO com.makemytrip.utilities.Log - waiting for password text box to become invisible
+2020-01-21 21:40:38,369 [main] INFO com.makemytrip.utilities.Log - Pass:password text box is invisible
+2020-01-21 21:40:38,440 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 21:40:38,489 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:Hey rahul
+2020-01-21 21:40:38,491 [main] INFO com.makemytrip.utilities.Log - Verifying whether child text is present in parent text
+2020-01-21 21:40:38,491 [main] INFO com.makemytrip.utilities.Log - Pass:child:HeyParent:Hey rahul
+2020-01-21 21:40:38,554 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 21:40:38,573 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:Hey rahul
+2020-01-21 21:40:38,588 [main] INFO com.makemytrip.utilities.Log - Clicking onHey Username Link
+2020-01-21 21:40:38,588 [main] INFO com.makemytrip.utilities.Log - waiting for Hey Username Link to be clickable
+2020-01-21 21:40:38,629 [main] INFO com.makemytrip.utilities.Log - Pass: Hey Username Link is clickable
+2020-01-21 21:40:38,857 [main] INFO com.makemytrip.utilities.Log - Pass: Hey Username Link :is clicked
+2020-01-21 21:40:38,882 [main] INFO com.makemytrip.utilities.Log - Clicking onMy Profile Link
+2020-01-21 21:40:38,882 [main] INFO com.makemytrip.utilities.Log - waiting for My Profile Link to be clickable
+2020-01-21 21:40:38,923 [main] INFO com.makemytrip.utilities.Log - Pass: My Profile Link is clickable
+2020-01-21 21:40:41,705 [main] INFO com.makemytrip.utilities.Log - Pass: My Profile Link :is clicked
+2020-01-21 21:40:41,706 [main] INFO com.makemytrip.utilities.Log - Verifying URL
+2020-01-21 21:40:41,802 [main] INFO com.makemytrip.utilities.Log - Pass: Act Url:https://www.makemytrip.com/my-profile/ Exp Url:https://www.makemytrip.com/my-profile/
+2020-01-21 21:40:41,813 [main] INFO com.makemytrip.utilities.Log - Waiting for borwser to load
+2020-01-21 21:40:43,996 [main] INFO com.makemytrip.utilities.Log - Clicking using JS on: Edit button
+2020-01-21 21:40:43,997 [main] INFO com.makemytrip.utilities.Log - waiting for Edit button to be clickable
+2020-01-21 21:40:44,086 [main] INFO com.makemytrip.utilities.Log - Pass: Edit button is clickable
+2020-01-21 21:40:44,121 [main] INFO com.makemytrip.utilities.Log - Pass: Edit button :is clicked
+2020-01-21 21:40:45,416 [main] INFO com.makemytrip.utilities.Log - Clearing First Name text field
+2020-01-21 21:40:45,416 [main] INFO com.makemytrip.utilities.Log - waiting for First Name to display
+2020-01-21 21:40:45,443 [main] INFO com.makemytrip.utilities.Log - Pass: First Name is displayed
+2020-01-21 21:40:45,637 [main] INFO com.makemytrip.utilities.Log - Pass: Text Field First Name has been cleared
+2020-01-21 21:40:45,654 [main] INFO com.makemytrip.utilities.Log - Setting text
+2020-01-21 21:40:45,654 [main] INFO com.makemytrip.utilities.Log - waiting for First Name to display
+2020-01-21 21:40:45,680 [main] INFO com.makemytrip.utilities.Log - Pass: First Name is displayed
+2020-01-21 21:40:45,735 [main] INFO com.makemytrip.utilities.Log - Pass:rahul is entered in First Name text box
+2020-01-21 21:40:46,882 [main] INFO com.makemytrip.utilities.Log - Clearing Last Name text field
+2020-01-21 21:40:46,882 [main] INFO com.makemytrip.utilities.Log - waiting for Last Name to display
+2020-01-21 21:40:46,912 [main] INFO com.makemytrip.utilities.Log - Pass: Last Name is displayed
+2020-01-21 21:40:47,072 [main] INFO com.makemytrip.utilities.Log - Pass: Text Field Last Name has been cleared
+2020-01-21 21:40:48,103 [main] INFO com.makemytrip.utilities.Log - Setting text
+2020-01-21 21:40:48,104 [main] INFO com.makemytrip.utilities.Log - waiting for Last Name to display
+2020-01-21 21:40:48,135 [main] INFO com.makemytrip.utilities.Log - Pass: Last Name is displayed
+2020-01-21 21:40:48,199 [main] INFO com.makemytrip.utilities.Log - Pass:singh is entered in Last Name text box
+2020-01-21 21:40:48,217 [main] INFO com.makemytrip.utilities.Log - Clicking using JS on: Save button
+2020-01-21 21:40:48,218 [main] INFO com.makemytrip.utilities.Log - waiting for Save button to be clickable
+2020-01-21 21:40:48,256 [main] INFO com.makemytrip.utilities.Log - Pass: Save button is clickable
+2020-01-21 21:40:48,343 [main] INFO com.makemytrip.utilities.Log - Pass: Save button :is clicked
+2020-01-21 21:40:48,344 [main] INFO com.makemytrip.utilities.Log - Refreshing page
+2020-01-21 21:40:48,361 [main] INFO com.makemytrip.utilities.Log - Pass:Refreshed page
+2020-01-21 21:40:48,362 [main] INFO com.makemytrip.utilities.Log - Waiting for borwser to load
+2020-01-21 21:40:49,012 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 21:40:49,058 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:Hey rahul
+2020-01-21 21:40:49,059 [main] INFO com.makemytrip.utilities.Log - Verifying Text
+2020-01-21 21:40:49,060 [main] INFO com.makemytrip.utilities.Log - Pass: Act Text:rahul Exp Text:rahul
+2020-01-21 21:40:55,097 [main] INFO com.makemytrip.utilities.Log - Chrome Browser has Launched
+2020-01-21 21:40:59,259 [main] INFO com.makemytrip.utilities.Log - Navigating to URL>https://www.makemytrip.com/
+2020-01-21 21:41:11,989 [main] INFO com.makemytrip.utilities.Log - Pass:Navigated to URL>https://www.makemytrip.com/
+2020-01-21 21:41:12,021 [main] INFO com.makemytrip.utilities.Log - Clicking using JS on: Round trip radio button
+2020-01-21 21:41:12,022 [main] INFO com.makemytrip.utilities.Log - waiting for Round trip radio button to be clickable
+2020-01-21 21:41:12,068 [main] INFO com.makemytrip.utilities.Log - Pass: Round trip radio button is clickable
+2020-01-21 21:41:12,115 [main] INFO com.makemytrip.utilities.Log - Pass: Round trip radio button :is clicked
+2020-01-21 21:41:12,144 [main] INFO com.makemytrip.utilities.Log - Clicking using JS on: Student fare button
+2020-01-21 21:41:12,144 [main] INFO com.makemytrip.utilities.Log - waiting for Student fare button to be clickable
+2020-01-21 21:41:12,178 [main] INFO com.makemytrip.utilities.Log - Pass: Student fare button is clickable
+2020-01-21 21:41:12,197 [main] INFO com.makemytrip.utilities.Log - Pass: Student fare button :is clicked
+2020-01-21 21:41:12,218 [main] INFO com.makemytrip.utilities.Log - Clicking using JS on: Search button
+2020-01-21 21:41:12,218 [main] INFO com.makemytrip.utilities.Log - waiting for Search button to be clickable
+2020-01-21 21:41:12,266 [main] INFO com.makemytrip.utilities.Log - Pass: Search button is clickable
+2020-01-21 21:41:12,305 [main] INFO com.makemytrip.utilities.Log - Pass: Search button :is clicked
+2020-01-21 21:41:12,314 [main] INFO com.makemytrip.utilities.Log - Waiting for borwser to load
+2020-01-21 21:41:42,265 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 21:41:42,362 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:Go Air |G8-124
+2020-01-21 21:41:42,406 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 21:41:42,444 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:? 6,746
+2020-01-21 21:41:42,463 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 21:41:42,493 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:Go Air |G8-113
+2020-01-21 21:41:42,509 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 21:41:42,541 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:? 6,746
+2020-01-21 21:41:42,563 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 21:41:42,596 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:Go Air |G8-557
+2020-01-21 21:41:42,611 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 21:41:42,640 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:? 6,746
+2020-01-21 21:41:42,659 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 21:41:42,689 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:Go Air |G8-286
+2020-01-21 21:41:42,703 [main] INFO com.makemytrip.utilities.Log - Getting Element Text
+2020-01-21 21:41:42,735 [main] INFO com.makemytrip.utilities.Log - Pass:Text is:? 13,004
+2020-01-21 21:41:54,424 [main] INFO com.makemytrip.utilities.Log - Pass:Mail Sent

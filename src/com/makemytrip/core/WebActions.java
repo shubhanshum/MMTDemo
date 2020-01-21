@@ -10,7 +10,6 @@ import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.Keys;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.interactions.Actions;
-import org.openqa.selenium.support.ui.ExpectedCondition;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 import org.testng.Assert;
@@ -19,20 +18,20 @@ import com.makemytrip.utilities.BrowserFactory;
 import com.makemytrip.utilities.Log;
 import com.makemytrip.utilities.Reports;
 
-
 public class WebActions {
 
-	
 	public static String loadUrl() {
 		String testUrl = null;
 		try {
-			testUrl = System.getProperty("ENVT_URL");
+			if (System.getProperty("Env_Name").equalsIgnoreCase("prod")) {
+				testUrl = WebActions.getPropFileData("config", "config", "prodUrl");
+			}
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
 		return testUrl;
 	}
-	
+
 	public static String loadEmailForSuiteResult() {
 		String testUrl = null;
 		try {
@@ -42,23 +41,22 @@ public class WebActions {
 		}
 		return testUrl;
 	}
-	
+
 	public static void navigateToURL() {
-		String testURL=WebActions.loadUrl();
-		Log.info("Navigating to URL>"+testURL);
+		String testURL = WebActions.loadUrl();
+		Log.info("Navigating to URL>" + testURL);
 		try {
 			BrowserFactory.getDriver().navigate().to(testURL);
-			Log.info("Pass:Navigated to URL>"+testURL);
-		}
-		catch(Exception e) {
-			Log.info("Fail:Could not navigate to URL>"+testURL);
+			Log.info("Pass:Navigated to URL>" + testURL);
+		} catch (Exception e) {
+			Log.info("Fail:Could not navigate to URL>" + testURL);
 			e.printStackTrace();
 		}
 	}
-	
+
 	public static void clearTextField(WebElement Element, String name) {
 		Log.info("Clearing " + name + " text field");
-		explctWaitTillElementVisibility(Element,name);
+		explctWaitTillElementVisibility(Element, name);
 		try {
 			Element.clear();
 			Log.info("Pass: Text Field " + name + " has been cleared");
@@ -69,13 +67,13 @@ public class WebActions {
 			e.printStackTrace();
 		}
 	}
-	
+
 	public static void clearTextFieldUsingKeys(WebElement Element, String name) {
 		Log.info("Clearing " + name + " text field");
-		explctWaitTillElementVisibility(Element,name);
+		explctWaitTillElementVisibility(Element, name);
 		try {
 			Element.click();
-			String del = Keys.chord(Keys.CONTROL, "a") + Keys.DELETE; 
+			String del = Keys.chord(Keys.CONTROL, "a") + Keys.DELETE;
 			Element.sendKeys(del);
 			Log.info("Pass: Text Field " + name + " has been cleared");
 			Reports.setMethodMessage("Pass: Text Field " + name + " has been cleared");
@@ -85,13 +83,13 @@ public class WebActions {
 			e.printStackTrace();
 		}
 	}
-	
-	public static void setText(WebElement Element, String Text,String field) {
+
+	public static void setText(WebElement Element, String Text, String field) {
 		Log.info("Setting text");
-		explctWaitTillElementVisibility(Element,field);
+		explctWaitTillElementVisibility(Element, field);
 		try {
 			Element.sendKeys(Text);
-			Log.info("Pass:" + Text + " is entered in "+field+ " text box");
+			Log.info("Pass:" + Text + " is entered in " + field + " text box");
 			Reports.setMethodMessage("Pass:" + Text + " is entered");
 		} catch (Exception e) {
 			Log.info("Fail:Unable to set text: " + Text);
@@ -99,10 +97,10 @@ public class WebActions {
 			e.printStackTrace();
 		}
 	}
-	
+
 	public static void click(WebElement Element, String name) {
 		Log.info("Clicking on" + name);
-		explctWaitTillElementBecomesClickable(Element,name);
+		explctWaitTillElementBecomesClickable(Element, name);
 		try {
 			Element.click();
 			Log.info("Pass: " + name + " :is clicked");
@@ -115,7 +113,7 @@ public class WebActions {
 
 	public static void clickUsingJS(WebElement Element, String name) {
 		Log.info("Clicking using JS on: " + name);
-		explctWaitTillElementBecomesClickable(Element,name);
+		explctWaitTillElementBecomesClickable(Element, name);
 		try {
 			JavascriptExecutor executor = (JavascriptExecutor) BrowserFactory.getDriver();
 			executor.executeScript("arguments[0].click();", Element);
@@ -127,28 +125,28 @@ public class WebActions {
 			e.printStackTrace();
 		}
 	}
-	
+
 	public static void explctWaitTillElementVisibility(WebElement Element, String name) {
 		Log.info("waiting for " + name + " to display");
-		WebDriverWait wait = new WebDriverWait(BrowserFactory.getDriver(), 25);
+		WebDriverWait wait = new WebDriverWait(BrowserFactory.getDriver(), 15);
 		wait.until(ExpectedConditions.visibilityOf(Element));
 		Log.info("Pass: " + name + " is displayed");
 	}
-	
+
 	public static void explctWaitTillElementBecomesClickable(WebElement Element, String name) {
 		Log.info("waiting for " + name + " to be clickable");
 		WebDriverWait wait = new WebDriverWait(BrowserFactory.getDriver(), 25);
 		wait.until(ExpectedConditions.elementToBeClickable(Element));
 		Log.info("Pass: " + name + " is clickable");
 	}
-	
+
 	public static void explctWaitTillElementInvisibility(WebElement Element, String name) {
 		Log.info("waiting for " + name + " to become invisible");
-		WebDriverWait wait = new WebDriverWait(BrowserFactory.getDriver(), 15);
+		WebDriverWait wait = new WebDriverWait(BrowserFactory.getDriver(), 20);
 		wait.until(ExpectedConditions.invisibilityOf(Element));
-		Log.info("Pass:"+name+" is invisible");
+		Log.info("Pass:" + name + " is invisible");
 	}
-	
+
 	public static boolean checkBrowserReadyState() {
 		JavascriptExecutor js = (JavascriptExecutor) BrowserFactory.getDriver();
 		if (js.executeScript("return document.readyState").toString().equals("complete")) {
@@ -159,11 +157,11 @@ public class WebActions {
 	}
 
 	public synchronized static void waitForBrowsertoload() {
-         Log.info("Waiting for borwser to load");
+		Log.info("Waiting for borwser to load");
 		try {
 			boolean isReady = checkBrowserReadyState();
-			System.out.println("Browser state:"+isReady);
-			if (isReady==false) {
+			System.out.println("Browser state:" + isReady);
+			if (isReady == false) {
 				for (int i = 0; i < 90; i++) {
 					try {
 						Thread.sleep(1000);
@@ -171,7 +169,7 @@ public class WebActions {
 
 					}
 					isReady = checkBrowserReadyState();
-					if (isReady==true) {
+					if (isReady == true) {
 						break;
 					}
 				}
@@ -181,7 +179,7 @@ public class WebActions {
 			e.printStackTrace();
 		}
 	}
-	
+
 	public static String getElementText(WebElement Element) {
 		Log.info("Getting Element Text");
 		String text = "";
@@ -209,14 +207,14 @@ public class WebActions {
 		}
 		return attributeValue;
 	}
-	
-	public static String getPropFileData(String propFileName, String key) {
+
+	public static String getPropFileData(String propFileName,String folderName, String key) {
 		FileInputStream file;
 		Properties prop;
 		String data = "";
 		try {
-			file = new FileInputStream(
-					System.getProperty("user.dir") + "\\src\\com\\makemytrip\\testdata\\" + propFileName + ".properties");
+			file = new FileInputStream(System.getProperty("user.dir") + "\\src\\com\\makemytrip\\"+folderName+"\\"
+					+ propFileName + ".properties");
 			prop = new Properties();
 			prop.load(file);
 			data = prop.getProperty(key);
@@ -228,23 +226,24 @@ public class WebActions {
 		}
 		return data;
 	}
-	
+
 	public static void waitFor(int sec) {
 		try {
-			Thread.sleep(sec*1000);
+			Thread.sleep(sec * 1000);
 		} catch (InterruptedException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
 	}
-	
+
 	public static void clickUsingActions(WebElement Element, String name) {
 		Log.info("Clicking using Actions on:" + name);
 		Reports.setMethodMessage("Clicking using Actions on:" + name);
 		try {
 			WebElement element = Element;
 			Actions action = new Actions(BrowserFactory.getDriver());
-			((JavascriptExecutor) BrowserFactory.getDriver()).executeScript("arguments[0].scrollIntoView(true);", element);
+			((JavascriptExecutor) BrowserFactory.getDriver()).executeScript("arguments[0].scrollIntoView(true);",
+					element);
 			WebActions.waitFor(1);
 			action.moveToElement(element).click().perform();
 			Log.info("Pass:" + name + " is clicked");
@@ -256,39 +255,10 @@ public class WebActions {
 			Assert.fail();
 		}
 	}
-	
-	public static void waitForAjaxToLoad() {
-		Log.info("Waiting for ajax to load");
-		Reports.setMethodMessage("Waiting for ajax to load");
-		WebDriverWait wait = new WebDriverWait(BrowserFactory.getDriver(), 90);
-		JavascriptExecutor jse = (JavascriptExecutor) BrowserFactory.getDriver();
 
-		String angularReadyScript = "return angular.element(document).injector().get('$http').pendingRequests.length === 0";
-
-		// Wait for ANGULAR to load
-		ExpectedCondition<Boolean> angularLoad = driver -> Boolean
-				.valueOf(((JavascriptExecutor) driver).executeScript(angularReadyScript).toString());
-
-
-		
-
-		// Get Angular is Ready
-		boolean angularReady = Boolean.valueOf(jse.executeScript(angularReadyScript).toString());
-					
-		// Wait ANGULAR until it is Ready!
-		if (!angularReady) {
-			Log.info("ANGULAR is NOT Ready!");
-			Reports.setMethodMessage("ANGULAR is NOT Ready!");
-			wait.until(angularLoad);
-		} else {
-			Log.info("ANGULAR is Ready!");
-			Reports.setMethodMessage("ANGULAR is Ready!");
-		}
-	}
-	
 	public static void switchToWindow(int windowIndex) {
 		Log.info("Handling multiple tabs");
-		if (windowIndex!=0) {
+		if (windowIndex != 0) {
 			WebActions.explctWaitTillTwoWindows();
 		}
 		ArrayList windows = new ArrayList(BrowserFactory.getDriver().getWindowHandles());
@@ -296,26 +266,23 @@ public class WebActions {
 		BrowserFactory.getDriver().switchTo().window((String) windows.get(windowIndex));
 		Log.info("Pass:Switched to window-" + windowIndex);
 	}
-	
+
 	public static void explctWaitTillTwoWindows() {
 		Log.info("waiting for 2 windows");
-		
+
 		try {
 			WebDriverWait wait = new WebDriverWait(BrowserFactory.getDriver(), 25);
 			wait.until(ExpectedConditions.numberOfWindowsToBe(2));
-		}catch(Exception e) {
+		} catch (Exception e) {
 			Log.info("");
 			e.printStackTrace();
 		}
-		
-		Log.info("Pass:2 windows are displayed");
-		
 	}
-	
+
 	public static void closeBrowser() {
 		BrowserFactory.getDriver().close();
 	}
-	
+
 	public static void refreshPage() {
 		Log.info("Refreshing page");
 		try {
@@ -326,5 +293,5 @@ public class WebActions {
 			e.printStackTrace();
 		}
 	}
-	
+
 }

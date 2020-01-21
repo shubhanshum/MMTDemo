@@ -28,7 +28,7 @@ public class Reports {
 	public static String timeStamp = new SimpleDateFormat("yyyy.MM.dd.HH.mm.ss").format(new Date());
 	
 	public static void setReport() {
-		htmlReporter=new ExtentHtmlReporter(System.getProperty("user.dir")+"\\TestReports"+timeStamp+".html");
+		htmlReporter=new ExtentHtmlReporter(Reports.getReportPath());
 		extent=new ExtentReports();
 		extent.attachReporter(htmlReporter);
 		extent.setSystemInfo("OS","Windows10");
@@ -46,7 +46,7 @@ public class Reports {
 			test.fail(result.getThrowable());
 			File srcFile=((TakesScreenshot)BrowserFactory.getDriver()).getScreenshotAs(OutputType.FILE);
 			try {
-				String screenshotPath=System.getProperty("user.dir")+"//FailScreenshots"+result.getName()+".png";
+				String screenshotPath=System.getProperty("user.dir")+"\\FailScreenshots\\"+result.getName()+".png";
 				FileUtils.copyFile(srcFile,new File(screenshotPath));
 				test.addScreenCaptureFromPath(screenshotPath);
 			} catch (IOException e) {
@@ -73,5 +73,9 @@ public class Reports {
 	
 	public static void setMethodMessage(String Message) {
 		test.log(Status.INFO,Message);
+	}
+	
+	public static String getReportPath() {
+		return System.getProperty("user.dir")+"\\TestReports\\"+timeStamp+".html";
 	}
 }
