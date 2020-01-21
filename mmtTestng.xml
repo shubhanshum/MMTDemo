@@ -1,0 +1,10 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="SanityTests" verbose="1" >
+  <test name="LoginSanity" >
+  <parameter name="browserName" value="chrome"/>
+   <classes>
+   
+   <class name="com.makemytrip.tests.ChangeUnameTest" />
+   </classes>
+  </test>
+</suite>
