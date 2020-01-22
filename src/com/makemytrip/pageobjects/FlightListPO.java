@@ -19,7 +19,7 @@ public class FlightListPO {
 	
 	public static void displayFourFlightDetails() throws Exception {
 		WebActions.waitForBrowsertoload();
-		WebActions.waitFor(6);
+		WebActions.waitFor(8);
 		for (int i=0;i<4;i++) {
 			String flightName=WebActions.getElementText(str_flightNames().get(i));
 			String fare=WebActions.getElementText(str_flightFares().get(i));
